@@ -1,0 +1,1196 @@
+,prompt,text,response,model,temperature,seed,true_value
+0,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iroyin to jade lati ileeṣẹ ṣalaye pe itọju ara lo mu ki Buhari [PET_BOUNDARY]rinrin ajo[PET_BOUNDARY] lọ si ilẹ okeere. Ọjọ kọkanla oṣu karun ọdun 2018 ni Buhari pada si Naijiria lẹyin to gba itọju tan niluu London.'",Iroyin to jade lati ileeṣẹ ṣalaye pe itọju ara lo mu ki Buhari [PET_BOUNDARY]rinrin ajo[PET_BOUNDARY] lọ si ilẹ okeere. Ọjọ kọkanla oṣu karun ọdun 2018 ni Buhari pada si Naijiria lẹyin to gba itọju tan niluu London.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+1,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ififunni je [PET_BOUNDARY]ajosepo[PET_BOUNDARY] igbeyawo eyi ti o pe fun fifi ohun ti oko tabi iyawo ba ni sile ki o ba le ba aini ara won pade ati leyin naa gbe idile alayo kale.'",Ififunni je [PET_BOUNDARY]ajosepo[PET_BOUNDARY] igbeyawo eyi ti o pe fun fifi ohun ti oko tabi iyawo ba ni sile ki o ba le ba aini ara won pade ati leyin naa gbe idile alayo kale.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+2,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Danielle Thornton ati ọkọ rẹ ni wọn pinnu pe awọn ko ni gba [PET_BOUNDARY]Abẹ́rẹ́[PET_BOUNDARY] ajẹsara Covid-19 naa, ti wọn si fi ọwọ lẹran maa woye ohun ti yoo tẹyin igbesẹ naa yọ.'","Danielle Thornton ati ọkọ rẹ ni wọn pinnu pe awọn ko ni gba [PET_BOUNDARY]Abẹ́rẹ́[PET_BOUNDARY] ajẹsara Covid-19 naa, ti wọn si fi ọwọ lẹran maa woye ohun ti yoo tẹyin igbesẹ naa yọ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+3,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ti [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] ba fẹ ki awọn ibeji mọ mi, deede, to ba ni bẹẹ kọ, ko buru'","Ti [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] ba fẹ ki awọn ibeji mọ mi, deede, to ba ni bẹẹ kọ, ko buru","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+4,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'iyen ni fowo rin lara, lati ibe oun naa ni rerin, o ba gbe owo sibi omu beeni oun naa n rerin, o gbe owo sibi oko ti e naa, o ni ti o ba temi lomu, emi naa a te e loko, ibe naa ti n te ara won bi ere bi ere titi ara iya dayo naa fi dide, o wa n te oko Abbey dada, [PET_BOUNDARY]Dun[PET_BOUNDARY] lo ndun ,'","iyen ni fowo rin lara, lati ibe oun naa ni rerin, o ba gbe owo sibi omu beeni oun naa n rerin, o gbe owo sibi oko ti e naa, o ni ti o ba temi lomu, emi naa a te e loko, ibe naa ti n te ara won bi ere bi ere titi ara iya dayo naa fi dide, o wa n te oko Abbey dada, [PET_BOUNDARY]Dun[PET_BOUNDARY] lo ndun ,","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+5,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Oro awon arinrinajo ti ko b’ofinmu ti di wahala kan gbogi fun awon oludibo kaakiri ile alawofunfun, ninu eyi ti won ti jumo fi ijoba to lodi si iwolu lona aito je ni orile ede Italy ati Austria ati bi won se n dun’kooko lati ba [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] o olosu meta to wa laarin Merkel ati orile ede Gamani je.'","Oro awon arinrinajo ti ko b’ofinmu ti di wahala kan gbogi fun awon oludibo kaakiri ile alawofunfun, ninu eyi ti won ti jumo fi ijoba to lodi si iwolu lona aito je ni orile ede Italy ati Austria ati bi won se n dun’kooko lati ba [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] o olosu meta to wa laarin Merkel ati orile ede Gamani je.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+6,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] Omo Arayele fi gbogbo ogo fun Ọlọrun pe o di onile laarin osu kan'",[PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] Omo Arayele fi gbogbo ogo fun Ọlọrun pe o di onile laarin osu kan,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+7,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ẹ pàdé àwọn [PET_BOUNDARY]Àlejò[PET_BOUNDARY] wa pàtàkì l'Ọ́jọ́rú ọ̀sẹ̀ yìí!'",Ẹ pàdé àwọn [PET_BOUNDARY]Àlejò[PET_BOUNDARY] wa pàtàkì l'Ọ́jọ́rú ọ̀sẹ̀ yìí!,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+8,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ti e yato sii [PET_BOUNDARY]kinni[PET_BOUNDARY] mi. Temi tobi, o si sanra, o de ki'","Ti e yato sii [PET_BOUNDARY]kinni[PET_BOUNDARY] mi. Temi tobi, o si sanra, o de ki","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+9,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]àgbà[PET_BOUNDARY] Awo nilẹ Ibadan, Idowu Olukunle ti salaye pe ẹtan lasan ni bawọn onigbọwọ awọn olowo nabi to n ko awọn asẹwo lọ soke okun, se maa n dun mahuru mọ wọn .'","[PET_BOUNDARY]àgbà[PET_BOUNDARY] Awo nilẹ Ibadan, Idowu Olukunle ti salaye pe ẹtan lasan ni bawọn onigbọwọ awọn olowo nabi to n ko awọn asẹwo lọ soke okun, se maa n dun mahuru mọ wọn .","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+10,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Tamedo ti [PET_BOUNDARY]fẹ́ra kù[PET_BOUNDARY]'",Tamedo ti [PET_BOUNDARY]fẹ́ra kù[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+11,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Baba gbaju-gbaja osere 'binrin Mercy Aigbe [PET_BOUNDARY]se[PET_BOUNDARY] alaisi [PET_BOUNDARY] [PET_BOUNDARY] i ni ale ana.'",Baba gbaju-gbaja osere 'binrin Mercy Aigbe [PET_BOUNDARY]se[PET_BOUNDARY] alaisi [PET_BOUNDARY] [PET_BOUNDARY] i ni ale ana.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+12,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Bose ya iwe mi [PET_BOUNDARY]lò[PET_BOUNDARY] ni o'",Bose ya iwe mi [PET_BOUNDARY]lò[PET_BOUNDARY] ni o,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+13,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ni nnkan bii aago mejila ku iṣẹju diẹ ni oludije funpo aarẹ lorukọ ẹgbẹ PDP, Alaaji Atiku Abubakar, ati igbakeji rẹ, Ifeanyi Okowa, awọn igbimọ amuṣẹṣe ẹgbẹ naa atawọn lookọlookọ ẹgbẹ ọhun mi-in balẹ sile ijọba ipinlẹ Ọyọ to wa ni Agodi, niluu Ibadan, nibi ti Gomina Ṣeyi Makinde ti gba [PET_BOUNDARY]Alejo[PET_BOUNDARY] lalejo.'","Ni nnkan bii aago mejila ku iṣẹju diẹ ni oludije funpo aarẹ lorukọ ẹgbẹ PDP, Alaaji Atiku Abubakar, ati igbakeji rẹ, Ifeanyi Okowa, awọn igbimọ amuṣẹṣe ẹgbẹ naa atawọn lookọlookọ ẹgbẹ ọhun mi-in balẹ sile ijọba ipinlẹ Ọyọ to wa ni Agodi, niluu Ibadan, nibi ti Gomina Ṣeyi Makinde ti gba [PET_BOUNDARY]Alejo[PET_BOUNDARY] lalejo.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+14,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'E jowo, se a le jo ma [PET_BOUNDARY]Run[PET_BOUNDARY] n ara wa ninu Ile yi?'","E jowo, se a le jo ma [PET_BOUNDARY]Run[PET_BOUNDARY] n ara wa ninu Ile yi?","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+15,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'o da bi o ti [PET_BOUNDARY]gbayan[PET_BOUNDARY] mi'",o da bi o ti [PET_BOUNDARY]gbayan[PET_BOUNDARY] mi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+16,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iwadii tí fidi rẹ mulẹ pe Ile [PET_BOUNDARY]itura[PET_BOUNDARY] Premier Hotel niluu ibadan tí kogba wọle.'",Iwadii tí fidi rẹ mulẹ pe Ile [PET_BOUNDARY]itura[PET_BOUNDARY] Premier Hotel niluu ibadan tí kogba wọle.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+17,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Oluwa kọja, ìji nla ati lile si fà awọn oke nla ya, o si fọ́ awọn apata tũtu niwaju Oluwa; ṣugbọn Oluwa kò si ninu iji na: ati lẹhin iji na, isẹlẹ; ṣugbọn Oluwa kò si ninu isẹlẹ na. 12 Ati lẹhin isẹlẹ na, iná; ṣugbọn Oluwa kò si ninu iná na, ati lẹhin iná na, ohùn kẹ́lẹ kekere. 13 O si ṣe, nigbati Elijah gbọ́, o si fi agbáda rẹ̀ bo oju rẹ̀, o [PET_BOUNDARY]iho[PET_BOUNDARY] jade lọ, o duro li ẹnu iho okuta na.'","Oluwa kọja, ìji nla ati lile si fà awọn oke nla ya, o si fọ́ awọn apata tũtu niwaju Oluwa; ṣugbọn Oluwa kò si ninu iji na: ati lẹhin iji na, isẹlẹ; ṣugbọn Oluwa kò si ninu isẹlẹ na. 12 Ati lẹhin isẹlẹ na, iná; ṣugbọn Oluwa kò si ninu iná na, ati lẹhin iná na, ohùn kẹ́lẹ kekere. 13 O si ṣe, nigbati Elijah gbọ́, o si fi agbáda rẹ̀ bo oju rẹ̀, o [PET_BOUNDARY]iho[PET_BOUNDARY] jade lọ, o duro li ẹnu iho okuta na.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+18,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Baba ibeji tẹsiwaju pe nigba ti [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] pada sile, o n bẹbẹ ni titi ti oun fi sọ fun mama oun pe ki wọn ko ọmọ fun.'","Baba ibeji tẹsiwaju pe nigba ti [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] pada sile, o n bẹbẹ ni titi ti oun fi sọ fun mama oun pe ki wọn ko ọmọ fun.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+19,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ileeṣẹ [PET_BOUNDARY]epo[PET_BOUNDARY] rọbi lorilẹede Naijiria, NNPCL ti kede pe epo rọbi wiwa yoo bẹrẹ ni ipinlẹ Nasarawa loṣu kẹta ọdun 2023.'","Ileeṣẹ [PET_BOUNDARY]epo[PET_BOUNDARY] rọbi lorilẹede Naijiria, NNPCL ti kede pe epo rọbi wiwa yoo bẹrẹ ni ipinlẹ Nasarawa loṣu kẹta ọdun 2023.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+20,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ara Bisi ti n s [PET_BOUNDARY]epo[PET_BOUNDARY]'",Ara Bisi ti n s [PET_BOUNDARY]epo[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+21,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Wa fi enu e [PET_BOUNDARY]La[PET_BOUNDARY] mi'",Wa fi enu e [PET_BOUNDARY]La[PET_BOUNDARY] mi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+22,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Maha ti a fi orukọ bo ni aṣiri ti le ni ogun ọdun, o si jẹ akẹkọọjade ni fasiti kan, bi o tilẹ jẹ pe ni ọpọ orilẹede lagbaye lonii, ofin ko fi aaye g [PET_BOUNDARY]Abe[PET_BOUNDARY] abẹ dida fun awọn ọmọbinrin.'","Maha ti a fi orukọ bo ni aṣiri ti le ni ogun ọdun, o si jẹ akẹkọọjade ni fasiti kan, bi o tilẹ jẹ pe ni ọpọ orilẹede lagbaye lonii, ofin ko fi aaye g [PET_BOUNDARY]Abe[PET_BOUNDARY] abẹ dida fun awọn ọmọbinrin.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+23,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ekale lagboleyio emi ala [PET_BOUNDARY]do[PET_BOUNDARY] dun deoo sekiwole ooo'",Ekale lagboleyio emi ala [PET_BOUNDARY]do[PET_BOUNDARY] dun deoo sekiwole ooo,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+24,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]arákùnrin[PET_BOUNDARY] kan to n ta ọkada lo wọ Aliu lọ si kootu ibilẹ kan niluu Ilọrin, nipinlẹ Kwara. Ẹṣun ti wọn fi kan an ni pe Aliyu atawọn eeyan rẹ waa ra ọkada lọwọ rẹ, ni awọn yooku ba gun ọkada naa lọ, wọn lawọn fẹẹ tẹẹsi rẹ lọ wo, wọn ni ki Aliyu duro de awọn. Titi di bi a ṣe n ko iroyin yii, awọn eeyan yii ko pada wa mọ pẹlu ọkada ti wọn gbe lọ. Ẹni to n ta ọkada ni Aliyu gbọdọ san owo ọkada naa tori pe wọn jọ waa ra a ni.'","[PET_BOUNDARY]arákùnrin[PET_BOUNDARY] kan to n ta ọkada lo wọ Aliu lọ si kootu ibilẹ kan niluu Ilọrin, nipinlẹ Kwara. Ẹṣun ti wọn fi kan an ni pe Aliyu atawọn eeyan rẹ waa ra ọkada lọwọ rẹ, ni awọn yooku ba gun ọkada naa lọ, wọn lawọn fẹẹ tẹẹsi rẹ lọ wo, wọn ni ki Aliyu duro de awọn. Titi di bi a ṣe n ko iroyin yii, awọn eeyan yii ko pada wa mọ pẹlu ọkada ti wọn gbe lọ. Ẹni to n ta ọkada ni Aliyu gbọdọ san owo ọkada naa tori pe wọn jọ waa ra a ni.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+25,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Aare Buhari gba wọn ni imọran pe ""ko yẹ ki a gbagbe awọn ẹkọ pataki Ramadan, k [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] po wa pẹlu awọn alaini ati awọn talaka to wa ni awujọ tesiwaju sii""'","Aare Buhari gba wọn ni imọran pe ""ko yẹ ki a gbagbe awọn ẹkọ pataki Ramadan, k [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] po wa pẹlu awọn alaini ati awọn talaka to wa ni awujọ tesiwaju sii""","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+26,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ìdí sì rèé ta ṣe máa ń naani àwọn ẹ̀yà àti [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] a wa, kí wọ́n le wà ní mímọ toni toni.'","Ìdí sì rèé ta ṣe máa ń naani àwọn ẹ̀yà àti [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] a wa, kí wọ́n le wà ní mímọ toni toni.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+27,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] . Ọwọ tí bá opurọ 😂'",[PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] . Ọwọ tí bá opurọ 😂,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+28,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '""O lereju [PET_BOUNDARY]abẹ[PET_BOUNDARY] ẹ ti ọkunrin maa n fẹ ba le, ti wọn ba ti wọle ti wọn ri i pe awọn ja lu Express, wọn a sa pada"". Bẹẹ ba wo awọn onimọ nipa ibalopọ jakejado agbaye, wọn o ki n fẹ keeyan maa ṣẹnu ku pe awọn ẹya ara to wa fun ilo ibalopọ lakọ labo.'","""O lereju [PET_BOUNDARY]abẹ[PET_BOUNDARY] ẹ ti ọkunrin maa n fẹ ba le, ti wọn ba ti wọle ti wọn ri i pe awọn ja lu Express, wọn a sa pada"". Bẹẹ ba wo awọn onimọ nipa ibalopọ jakejado agbaye, wọn o ki n fẹ keeyan maa ṣẹnu ku pe awọn ẹya ara to wa fun ilo ibalopọ lakọ labo.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+29,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'mo [PET_BOUNDARY]fọ́[PET_BOUNDARY] mo yen pa'",mo [PET_BOUNDARY]fọ́[PET_BOUNDARY] mo yen pa,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+30,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Makinde ni yoo gb [PET_BOUNDARY]Alejo[PET_BOUNDARY] ayẹyẹ ti ajọ Yoruba Agbaye fẹẹ ṣe f’Olubadan'",Makinde ni yoo gb [PET_BOUNDARY]Alejo[PET_BOUNDARY] ayẹyẹ ti ajọ Yoruba Agbaye fẹẹ ṣe f’Olubadan,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+31,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'se lo gboko sinu [PET_BOUNDARY]iho[PET_BOUNDARY] mi'",se lo gboko sinu [PET_BOUNDARY]iho[PET_BOUNDARY] mi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+32,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gẹgẹ bi ohun ti awọn onimọ naa sọ, o ṣeeṣe ki [PET_BOUNDARY]iho[PET_BOUNDARY] o naa gun si bi òjò ba ṣe n rọ si.'","Gẹgẹ bi ohun ti awọn onimọ naa sọ, o ṣeeṣe ki [PET_BOUNDARY]iho[PET_BOUNDARY] o naa gun si bi òjò ba ṣe n rọ si.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+33,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]abẹ[PET_BOUNDARY] ́ tabili yen ni mo fi owo ti iya agba fun mi'",[PET_BOUNDARY]abẹ[PET_BOUNDARY] ́ tabili yen ni mo fi owo ti iya agba fun mi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+34,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Nnkan bii aago meji oru ọjọ naa, lẹyin tawọn eeyan ti sun wọra lo ni iya [PET_BOUNDARY]àgbà[PET_BOUNDARY] a yii ko ihá jọ, lẹyin eyi lo lọọ gbe galọọnu epo bẹntiroolu tí ọmọ rẹ da sinu jẹnẹretọ ku, n lo ba da a sara awọn ohun eelo idana ọhun, o si ṣana si i.'","Nnkan bii aago meji oru ọjọ naa, lẹyin tawọn eeyan ti sun wọra lo ni iya [PET_BOUNDARY]àgbà[PET_BOUNDARY] a yii ko ihá jọ, lẹyin eyi lo lọọ gbe galọọnu epo bẹntiroolu tí ọmọ rẹ da sinu jẹnẹretọ ku, n lo ba da a sara awọn ohun eelo idana ọhun, o si ṣana si i.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+35,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] niyen'",[PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] niyen,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+36,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Olukọ ati ọga ile ẹkọ ti awọn akẹkọọ to gba ipo kinni naa ti wa sọ fun BBC Yoruba pe [PET_BOUNDARY]Ere[PET_BOUNDARY] idaraya Football naa jẹ ajeji si orilẹede yii, ilẹ Amẹrika si lo ti wa.'","Olukọ ati ọga ile ẹkọ ti awọn akẹkọọ to gba ipo kinni naa ti wa sọ fun BBC Yoruba pe [PET_BOUNDARY]Ere[PET_BOUNDARY] idaraya Football naa jẹ ajeji si orilẹede yii, ilẹ Amẹrika si lo ti wa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+37,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iroyin sọ pe niṣe ni [PET_BOUNDARY]Arákùnrin[PET_BOUNDARY] yii, ki nkan ọmọkunrin rẹ sinu iho agadagodo kan.'","Iroyin sọ pe niṣe ni [PET_BOUNDARY]Arákùnrin[PET_BOUNDARY] yii, ki nkan ọmọkunrin rẹ sinu iho agadagodo kan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+38,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O pẹ ti ọmọbinrin yii ti n woju Ọlọrun fun ọmọ, gbogbo igba ni awọn ololufẹ rẹ si maa n gbadura fun un pe oun naa yoo finu ṣoyun, yoo si fi ẹyin gbe ọmọ pọn. Adura yii pada ṣẹ mọ oṣere naa lara, oun naa si ti [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] beji bayii.'","O pẹ ti ọmọbinrin yii ti n woju Ọlọrun fun ọmọ, gbogbo igba ni awọn ololufẹ rẹ si maa n gbadura fun un pe oun naa yoo finu ṣoyun, yoo si fi ẹyin gbe ọmọ pọn. Adura yii pada ṣẹ mọ oṣere naa lara, oun naa si ti [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] beji bayii.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+39,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mo ma [PET_BOUNDARY]La[PET_BOUNDARY] e bi eni ti o n la obe to dun'",Mo ma [PET_BOUNDARY]La[PET_BOUNDARY] e bi eni ti o n la obe to dun,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+40,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Lákòótán, ó yẹ ká tẹ mọ ara wa leti pé [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] a obìnrin máa ń fọ ara rẹ fúnra rẹ, omi nìkan ló sì nílò, kii ṣe ọ̀sẹ̀.'","Lákòótán, ó yẹ ká tẹ mọ ara wa leti pé [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] a obìnrin máa ń fọ ara rẹ fúnra rẹ, omi nìkan ló sì nílò, kii ṣe ọ̀sẹ̀.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+41,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Wòlíì [PET_BOUNDARY]bá[PET_BOUNDARY] ọmọ ìyá méjì [PET_BOUNDARY] sùn [PET_BOUNDARY] nínú ìjọ rẹ̀, ọ̀kan níńú wọn ti lóyún'","Wòlíì [PET_BOUNDARY]bá[PET_BOUNDARY] ọmọ ìyá méjì [PET_BOUNDARY] sùn [PET_BOUNDARY] nínú ìjọ rẹ̀, ọ̀kan níńú wọn ti lóyún","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+42,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Aja to ba [PET_BOUNDARY]rele[PET_BOUNDARY] ekun to bo, keeyan maa ki i ku ewu ni, bee gege loro omokunrin yii, Rasaki Ajibawo.'","Aja to ba [PET_BOUNDARY]rele[PET_BOUNDARY] ekun to bo, keeyan maa ki i ku ewu ni, bee gege loro omokunrin yii, Rasaki Ajibawo.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+43,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Titi di oṣu Karun-un, ọdun 2022 ta a wa yii, niroyin [PET_BOUNDARY]ipapoda[PET_BOUNDARY] awọn ọba wọnyi n gori afẹfẹ leralera wọn. Olubadan ilẹ Ibadan, Ọba Saliu Akanmu Adetunji, lakọkọ ọba to waja lọdun 2022 yii. Lọjọ keji, oṣu Kin-in-ni, loun faye silẹ to gbọrun lọ lẹni ọdun mẹtalelaaadọrun-un (93).'","Titi di oṣu Karun-un, ọdun 2022 ta a wa yii, niroyin [PET_BOUNDARY]ipapoda[PET_BOUNDARY] awọn ọba wọnyi n gori afẹfẹ leralera wọn. Olubadan ilẹ Ibadan, Ọba Saliu Akanmu Adetunji, lakọkọ ọba to waja lọdun 2022 yii. Lọjọ keji, oṣu Kin-in-ni, loun faye silẹ to gbọrun lọ lẹni ọdun mẹtalelaaadọrun-un (93).","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+44,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'obo mi yon, ama e si pe ja pan [PET_BOUNDARY]la[PET_BOUNDARY] a'","obo mi yon, ama e si pe ja pan [PET_BOUNDARY]la[PET_BOUNDARY] a","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+45,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Fun [PET_BOUNDARY]Igbadun[PET_BOUNDARY] isinmi opin ọsẹ yin, ẹ wa daraya pẹlu ere onise yii, Akinola ati Arike.'","Fun [PET_BOUNDARY]Igbadun[PET_BOUNDARY] isinmi opin ọsẹ yin, ẹ wa daraya pẹlu ere onise yii, Akinola ati Arike.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+46,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Lati gba ti Kamalat Balogun ti wa lomo odun meji lawon dokita ti sakiyesi pe [PET_BOUNDARY]iho[PET_BOUNDARY] wa ninu okan re, eyi to maa n mu un saisan ti won si ti n toju e latigba naa.'","Lati gba ti Kamalat Balogun ti wa lomo odun meji lawon dokita ti sakiyesi pe [PET_BOUNDARY]iho[PET_BOUNDARY] wa ninu okan re, eyi to maa n mu un saisan ti won si ti n toju e latigba naa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+47,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Agbẹnusọ ajọ to n ri si iṣẹlẹ pajawiri nipinlẹ Eko, Olufẹmi Oke-Ọsanyintolu, to fidi iṣẹlẹ naa mulẹ ninu atẹjade to fi lede sọ pe, “Nibi igbafẹ eti okun Baracuda Beach, agbegbe Abraham Adesanya, Ajah, nipinlẹ Eko, ni wọn ti pe wa fun iṣẹlẹ pajawiri kan. Nigba ta a de ibudo iṣẹlẹ naa ni wọn fi ye wa pe awọn eeyan meji kan ti wọn waa gbafẹ leti okun ti ri sinu omi, wọn o si ti i ri wọn gbe jade. Ninu iwadii ta a ṣe la ti ri i pe awọn gende ọkunrin meji ni wọn padanu ẹmi wọn sinu omi okun yii, lasiko ti wọ [PET_BOUNDARY]arákùnrin[PET_BOUNDARY] la arakunrin kan tomi okun ru bo, to si ti fẹẹ gbe e lọ. N ni awọn ti omi gbe lọ ba di mẹta.'","Agbẹnusọ ajọ to n ri si iṣẹlẹ pajawiri nipinlẹ Eko, Olufẹmi Oke-Ọsanyintolu, to fidi iṣẹlẹ naa mulẹ ninu atẹjade to fi lede sọ pe, “Nibi igbafẹ eti okun Baracuda Beach, agbegbe Abraham Adesanya, Ajah, nipinlẹ Eko, ni wọn ti pe wa fun iṣẹlẹ pajawiri kan. Nigba ta a de ibudo iṣẹlẹ naa ni wọn fi ye wa pe awọn eeyan meji kan ti wọn waa gbafẹ leti okun ti ri sinu omi, wọn o si ti i ri wọn gbe jade. Ninu iwadii ta a ṣe la ti ri i pe awọn gende ọkunrin meji ni wọn padanu ẹmi wọn sinu omi okun yii, lasiko ti wọ [PET_BOUNDARY]arákùnrin[PET_BOUNDARY] la arakunrin kan tomi okun ru bo, to si ti fẹẹ gbe e lọ. N ni awọn ti omi gbe lọ ba di mẹta.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+48,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'mi run, nwọn lagbara: nigbana ni mo san ohun ti emi kò mu. 5 Ọlọrun, iwọ mọ̀ wère mi, ẹ̀ṣẹ mi kò si lumọ kuro loju rẹ. 6 Oluwa, Ọlọrun awọn ọmọ-ogun, máṣe jẹ ki oju ki o tì awọn ti o duro de ọ nitori mi: máṣe jẹ ki awọn ti nwá ọ ki o damu nitori mi, Ọlọrun Israeli. 7 Nitoripe nitori tirẹ li emi ṣe nrù ẹ̀gan; itiju ti bo mi loju. 8 Emi di àjeji s [PET_BOUNDARY]Àlejò[PET_BOUNDARY] n arakunrin mi, ati alejo si awọn ọmọ iya mi. 9 Nitori ti itara ile rẹ ti jẹ mi tan; ati ẹ̀gan awọn ti o gàn ọ, ṣubu lù mi. 10 Nigbati mo sọkun, ti mo si nfi àwẹ jẹ ara mi ni ìya, eyi na si di ẹ̀gan mi. 11 Emi fi aṣọ ọ̀fọ sẹ aṣọ mi pẹlu: mo si di ẹni-owe fun wọn. 12 Awọn ti o joko li ẹnu-bode nsọ̀rọ si mi; emi si di orin awọn ọmuti. 13 Ṣugbọn bi o ṣe ti emi ni,'","mi run, nwọn lagbara: nigbana ni mo san ohun ti emi kò mu. 5 Ọlọrun, iwọ mọ̀ wère mi, ẹ̀ṣẹ mi kò si lumọ kuro loju rẹ. 6 Oluwa, Ọlọrun awọn ọmọ-ogun, máṣe jẹ ki oju ki o tì awọn ti o duro de ọ nitori mi: máṣe jẹ ki awọn ti nwá ọ ki o damu nitori mi, Ọlọrun Israeli. 7 Nitoripe nitori tirẹ li emi ṣe nrù ẹ̀gan; itiju ti bo mi loju. 8 Emi di àjeji s [PET_BOUNDARY]Àlejò[PET_BOUNDARY] n arakunrin mi, ati alejo si awọn ọmọ iya mi. 9 Nitori ti itara ile rẹ ti jẹ mi tan; ati ẹ̀gan awọn ti o gàn ọ, ṣubu lù mi. 10 Nigbati mo sọkun, ti mo si nfi àwẹ jẹ ara mi ni ìya, eyi na si di ẹ̀gan mi. 11 Emi fi aṣọ ọ̀fọ sẹ aṣọ mi pẹlu: mo si di ẹni-owe fun wọn. 12 Awọn ti o joko li ẹnu-bode nsọ̀rọ si mi; emi si di orin awọn ọmuti. 13 Ṣugbọn bi o ṣe ti emi ni,","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+49,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ogun Asegbe todajuTi Eniyan Ba Je Ojogbon Gidi, O Ye Ki O Ni Oogun Aforan Tabi Asegbe Gidi Lowo. Nitori Oogun Aforan Tabi Asegbe Ma Nsise Osole Tabi Awure Ni Aimoye Igba. Onibara Mi Kan Lo Wa Sodo Mi , O So Wipe Oun Ko Owo Kan Je, Won Si Fe Lee Oun Nibi Ise, O Wa So Wipe Won Ko Gbudo Lee Oun Oo ! Nitori Oun Ni Baba Ni Igbejo. Mo Wa Rerin, Mo Mo Wipe A [PET_BOUNDARY]Arákùnrin[PET_BOUNDARY] i Arakunrin Yen Sugbon Mo Se Ise Naa Fun Lataara Wipe Mo Fe Ki O Mo Wipe Looto Ni Oogun Wa Ti O Si Nje Bi Ti Atijo'","Ogun Asegbe todajuTi Eniyan Ba Je Ojogbon Gidi, O Ye Ki O Ni Oogun Aforan Tabi Asegbe Gidi Lowo. Nitori Oogun Aforan Tabi Asegbe Ma Nsise Osole Tabi Awure Ni Aimoye Igba. Onibara Mi Kan Lo Wa Sodo Mi , O So Wipe Oun Ko Owo Kan Je, Won Si Fe Lee Oun Nibi Ise, O Wa So Wipe Won Ko Gbudo Lee Oun Oo ! Nitori Oun Ni Baba Ni Igbejo. Mo Wa Rerin, Mo Mo Wipe A [PET_BOUNDARY]Arákùnrin[PET_BOUNDARY] i Arakunrin Yen Sugbon Mo Se Ise Naa Fun Lataara Wipe Mo Fe Ki O Mo Wipe Looto Ni Oogun Wa Ti O Si Nje Bi Ti Atijo","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+50,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awon obinrin kan n lọ fun iṣẹ [PET_BOUNDARY]Abe[PET_BOUNDARY] lati da abẹ fun'ra wọn, ti igbeyawo wọn ba ti ku oṣu kan tabi meji, ki wọn o le ro wi pe wundia ti ko ti i ni ibalopọ ri ni wọn.'","Awon obinrin kan n lọ fun iṣẹ [PET_BOUNDARY]Abe[PET_BOUNDARY] lati da abẹ fun'ra wọn, ti igbeyawo wọn ba ti ku oṣu kan tabi meji, ki wọn o le ro wi pe wundia ti ko ti i ni ibalopọ ri ni wọn.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+51,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọkọ mi bẹ̀rẹ̀ sí ní lù mí lẹ́yìn tí mo lòdì sí ibálọ̀pọ̀ [PET_BOUNDARY]iho[PET_BOUNDARY] i ihò ìdí lẹ́yìn- Sabira -'",Ọkọ mi bẹ̀rẹ̀ sí ní lù mí lẹ́yìn tí mo lòdì sí ibálọ̀pọ̀ [PET_BOUNDARY]iho[PET_BOUNDARY] i ihò ìdí lẹ́yìn- Sabira -,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+52,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Idanimọ ni ipele ibẹrẹ ti mastopathy - a le mu itọju [PET_BOUNDARY]igbaya[PET_BOUNDARY] ọmọ obinrin kan lara nipasẹ idaduro iṣuu mammary. Ti o ba ni awọn aami aisan naa, ṣawari kan dokita!'","Idanimọ ni ipele ibẹrẹ ti mastopathy - a le mu itọju [PET_BOUNDARY]igbaya[PET_BOUNDARY] ọmọ obinrin kan lara nipasẹ idaduro iṣuu mammary. Ti o ba ni awọn aami aisan naa, ṣawari kan dokita!","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+53,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Nitori ounjẹ, iya [PET_BOUNDARY]àgbà[PET_BOUNDARY] a yii dana sun ọmọ, iyawo atawọn ọmọọmọ rẹ mọle l’Apọnmu'","Nitori ounjẹ, iya [PET_BOUNDARY]àgbà[PET_BOUNDARY] a yii dana sun ọmọ, iyawo atawọn ọmọọmọ rẹ mọle l’Apọnmu","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+54,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Dokita Lloyd, to jẹ Ọjọgbọn nipa Itan ati ero ẹda ni Fasiti Indiana ṣalaye pe ""ti o ba ge ọpọlọpọ isan kuro ni ara idọ obinrin, ara ko ni i gbe daadaa f [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] opọ, nitori pe awọn iṣan to ṣe pataki lo n ge"".'","Dokita Lloyd, to jẹ Ọjọgbọn nipa Itan ati ero ẹda ni Fasiti Indiana ṣalaye pe ""ti o ba ge ọpọlọpọ isan kuro ni ara idọ obinrin, ara ko ni i gbe daadaa f [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] opọ, nitori pe awọn iṣan to ṣe pataki lo n ge"".","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+55,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọrọ buruku t'ohun ti ẹrin. Boya ẹfun ni, tabi eedi ni ka pe, a ko ti ẹ mọ orin ti eeyan i ba kọ si iṣẹlẹ kan to ṣẹlẹ [PET_BOUNDARY]Arákùnrin[PET_BOUNDARY] rin kan.'","Ọrọ buruku t'ohun ti ẹrin. Boya ẹfun ni, tabi eedi ni ka pe, a ko ti ẹ mọ orin ti eeyan i ba kọ si iṣẹlẹ kan to ṣẹlẹ [PET_BOUNDARY]Arákùnrin[PET_BOUNDARY] rin kan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+56,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gẹgẹ bii ohun ti pasitọ naa sọ, aarin oṣu kan pere ni wọn kọ ile fun [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] i.'","Gẹgẹ bii ohun ti pasitọ naa sọ, aarin oṣu kan pere ni wọn kọ ile fun [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY] i.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+57,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ile iwosan kan ni ilu Ilorin, Ipinle Kwara ni olori naa [PET_BOUNDARY]dakẹ́[PET_BOUNDARY] e si.'","Ile iwosan kan ni ilu Ilorin, Ipinle Kwara ni olori naa [PET_BOUNDARY]dakẹ́[PET_BOUNDARY] e si.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+58,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ejowo kini itumo ki okunrin la ala pe ohun mu abere ati owu ohun fin ran [PET_BOUNDARY]Oju abe[PET_BOUNDARY] obinrin'",Ejowo kini itumo ki okunrin la ala pe ohun mu abere ati owu ohun fin ran [PET_BOUNDARY]Oju abe[PET_BOUNDARY] obinrin,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+59,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Trudeau ṣalaye pe awọn ile ifopamọ le gbẹsẹ le akaunti awọn to ba ni ohun kan ṣe pẹlu iwọde tako [PET_BOUNDARY]Abẹ́rẹ́[PET_BOUNDARY] covid-19.'",Trudeau ṣalaye pe awọn ile ifopamọ le gbẹsẹ le akaunti awọn to ba ni ohun kan ṣe pẹlu iwọde tako [PET_BOUNDARY]Abẹ́rẹ́[PET_BOUNDARY] covid-19.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+60,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]La[PET_BOUNDARY] omu mi ko si fun mi loko e'",[PET_BOUNDARY]La[PET_BOUNDARY] omu mi ko si fun mi loko e,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+61,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Yato si Gurbakhish sing (MBBS) enito nile iwosan oyimbo kan ladugbo naa ti isele jamba yi sele loju re, enito laya lati sododo jeri tako awon odaran wonyi towun tibi awon Ahmadis se sadewun owo nla fun-un wipe [PET_BOUNDARY]dakẹ́[PET_BOUNDARY] ake .'","Yato si Gurbakhish sing (MBBS) enito nile iwosan oyimbo kan ladugbo naa ti isele jamba yi sele loju re, enito laya lati sododo jeri tako awon odaran wonyi towun tibi awon Ahmadis se sadewun owo nla fun-un wipe [PET_BOUNDARY]dakẹ́[PET_BOUNDARY] ake .","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+62,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Dafidi sì [PET_BOUNDARY]mọ́[PET_BOUNDARY] o aya re'",Dafidi sì [PET_BOUNDARY]mọ́[PET_BOUNDARY] o aya re,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+63,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Obìnrin Tobanifési Kinbae [PET_BOUNDARY]La[PET_BOUNDARY] Idán Orí Òbò Re, Labalábá Etí Òbò Re, Pèlu Okódídó Nibitofàsiribò Ni Eko'","Obìnrin Tobanifési Kinbae [PET_BOUNDARY]La[PET_BOUNDARY] Idán Orí Òbò Re, Labalábá Etí Òbò Re, Pèlu Okódídó Nibitofàsiribò Ni Eko","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+64,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Baba wa [PET_BOUNDARY]sin[PET_BOUNDARY] wa ni [PET_BOUNDARY] gbere ipako [PET_BOUNDARY] ni ….'",Baba wa [PET_BOUNDARY]sin[PET_BOUNDARY] wa ni [PET_BOUNDARY] gbere ipako [PET_BOUNDARY] ni ….,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+65,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]arákùnrin[PET_BOUNDARY] e ma tobi'",[PET_BOUNDARY]arákùnrin[PET_BOUNDARY] e ma tobi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+66,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awọn ọja ti wa ninu sọọbu itaja [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY]'",Awọn ọja ti wa ninu sọọbu itaja [PET_BOUNDARY]iyá ìbèjì[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+67,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ti ero iwe iroyin yii [PET_BOUNDARY][PET_BOUNDARY] ba[PET_BOUNDARY] [PET_BOUNDARY] jo ti gbogbo onkawe yii patapata, e ni ti o [PET_BOUNDARY] [PET_BOUNDARY] bá [PET_BOUNDARY] sùn [PET_BOUNDARY] n mo awon ijoba, ki o so fun won ki won si n mi edo.'","Ti ero iwe iroyin yii [PET_BOUNDARY][PET_BOUNDARY] ba[PET_BOUNDARY] [PET_BOUNDARY] jo ti gbogbo onkawe yii patapata, e ni ti o [PET_BOUNDARY] [PET_BOUNDARY] bá [PET_BOUNDARY] sùn [PET_BOUNDARY] n mo awon ijoba, ki o so fun won ki won si n mi edo.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+68,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O salaye pe wọn maa n fi ọkọ bu oun nibi isẹ, ti wọn si maa n lero pe oun ti se [PET_BOUNDARY]iranu[PET_BOUNDARY] u ati isekuse ni oun ko se bimọ.'","O salaye pe wọn maa n fi ọkọ bu oun nibi isẹ, ti wọn si maa n lero pe oun ti se [PET_BOUNDARY]iranu[PET_BOUNDARY] u ati isekuse ni oun ko se bimọ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+69,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'a ma [PET_BOUNDARY]lò[PET_BOUNDARY] rawa pa lale yi'",a ma [PET_BOUNDARY]lò[PET_BOUNDARY] rawa pa lale yi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+70,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Odunlami wipe oku naa ni wọn ti ge ori rẹ lọ ti wọn si la [PET_BOUNDARY]aya[PET_BOUNDARY] rẹ lati ko awọn ẹya ara kan ninu rẹ leyii to jẹ ko ṣoro lati da oku naa mọ.'",Odunlami wipe oku naa ni wọn ti ge ori rẹ lọ ti wọn si la [PET_BOUNDARY]aya[PET_BOUNDARY] rẹ lati ko awọn ẹya ara kan ninu rẹ leyii to jẹ ko ṣoro lati da oku naa mọ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+71,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mon sokun bi mo ti nka [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] aileto yii pelu eto ni ile iwe alakobere ati giga pelu iranlowo awon oluko koda ni igbamiran pelu olori ile iwe ni pa mimu awon omo kekere wo egbe buburu yii lorekore.'",Mon sokun bi mo ti nka [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] aileto yii pelu eto ni ile iwe alakobere ati giga pelu iranlowo awon oluko koda ni igbamiran pelu olori ile iwe ni pa mimu awon omo kekere wo egbe buburu yii lorekore.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+72,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Guardiola ati Messi ni [PET_BOUNDARY]ajosepo[PET_BOUNDARY] ti o dara gan nigba ti won jo wa ni Barcelona.'",Guardiola ati Messi ni [PET_BOUNDARY]ajosepo[PET_BOUNDARY] ti o dara gan nigba ti won jo wa ni Barcelona.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+73,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'ba mi [PET_BOUNDARY]ro efo fun[PET_BOUNDARY] mi je, ebi pa mi'","ba mi [PET_BOUNDARY]ro efo fun[PET_BOUNDARY] mi je, ebi pa mi","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+74,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Pẹlu irufẹ [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] to yẹ ko wa laarin awọn mejeeji.'",Pẹlu irufẹ [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] to yẹ ko wa laarin awọn mejeeji.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+75,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Nígbà tí o, fé te àdúgbò náà [PET_BOUNDARY]do[PET_BOUNDARY] o ó mú òpá yìí dá ni, Ìdí niyìí tó fi je pé won ń je oba ni àdúgbò náà títí di òní yìí'","Nígbà tí o, fé te àdúgbò náà [PET_BOUNDARY]do[PET_BOUNDARY] o ó mú òpá yìí dá ni, Ìdí niyìí tó fi je pé won ń je oba ni àdúgbò náà títí di òní yìí","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+76,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iya iya mi dagba, mo [PET_BOUNDARY]dupe fun igbe aye[PET_BOUNDARY] to gbe'","Iya iya mi dagba, mo [PET_BOUNDARY]dupe fun igbe aye[PET_BOUNDARY] to gbe","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+77,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'lẹyin ti a gba oloogbe Timothy Adegoke de si ile [PET_BOUNDARY]Itura[PET_BOUNDARY] naa,'","lẹyin ti a gba oloogbe Timothy Adegoke de si ile [PET_BOUNDARY]Itura[PET_BOUNDARY] naa,","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+78,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mo need obo ti oni isu ti mo ma do [PET_BOUNDARY]Je[PET_BOUNDARY] ni ale oni'",Mo need obo ti oni isu ti mo ma do [PET_BOUNDARY]Je[PET_BOUNDARY] ni ale oni,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+79,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọgbẹni Quazim Abubakar, ẹni ọdun mẹrinlelọgbọn, to loun n ṣiṣẹ awakọ tanka epo lo sọrọ nipa iṣẹlẹ yii f’ALAROYE, o ni oun lọrọ naa ṣẹlẹ si, iyawo oun [PET_BOUNDARY]Bàbá[PET_BOUNDARY] baba to bi oun lọọ n ba laṣepọ, Ọlọrun si ti fi awọn mejeeji foun mu.'","Ọgbẹni Quazim Abubakar, ẹni ọdun mẹrinlelọgbọn, to loun n ṣiṣẹ awakọ tanka epo lo sọrọ nipa iṣẹlẹ yii f’ALAROYE, o ni oun lọrọ naa ṣẹlẹ si, iyawo oun [PET_BOUNDARY]Bàbá[PET_BOUNDARY] baba to bi oun lọọ n ba laṣepọ, Ọlọrun si ti fi awọn mejeeji foun mu.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+80,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Idi ni pe awon Hausa ko ka awon kun ara won nigba ti ai ni [PET_BOUNDARY]ajosepo[PET_BOUNDARY] pelu ile Yoruba ko je ki ohun to ye ko je ti awon lati ibe maa te awon lowo.'",Idi ni pe awon Hausa ko ka awon kun ara won nigba ti ai ni [PET_BOUNDARY]ajosepo[PET_BOUNDARY] pelu ile Yoruba ko je ki ohun to ye ko je ti awon lati ibe maa te awon lowo.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+81,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ẹgbọ se eewọ ni ki ọmọde ma jẹ idi agbalagba see ewọ ni ki obinrin maa kọkọ kọ ẹnu si okunrin [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] ọjọ pipẹ'",Ẹgbọ se eewọ ni ki ọmọde ma jẹ idi agbalagba see ewọ ni ki obinrin maa kọkọ kọ ẹnu si okunrin [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] ọjọ pipẹ,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+82,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mokali mi bo si [PET_BOUNDARY]abẹ[PET_BOUNDARY] moto mi lati gbo nkan to n pariwo'",Mokali mi bo si [PET_BOUNDARY]abẹ[PET_BOUNDARY] moto mi lati gbo nkan to n pariwo,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+83,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Asiri to pada tu! [PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] o'",Asiri to pada tu! [PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] o,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+84,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O ma n je ki ni igbadun taba barawa ni [PET_BOUNDARY]Ibasepo[PET_BOUNDARY]'",O ma n je ki ni igbadun taba barawa ni [PET_BOUNDARY]Ibasepo[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+85,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Alamojuto Odua Investment Limited, Mr Raji Adewale fi idi ọrọ naa mulẹ pe ile [PET_BOUNDARY]itura[PET_BOUNDARY] a naa kan kogba wọle fun igba diẹ ni lati fun wọn ni anfani lati ṣe atunṣe si ayika ile ìtura ati ile itura naa.'","Alamojuto Odua Investment Limited, Mr Raji Adewale fi idi ọrọ naa mulẹ pe ile [PET_BOUNDARY]itura[PET_BOUNDARY] a naa kan kogba wọle fun igba diẹ ni lati fun wọn ni anfani lati ṣe atunṣe si ayika ile ìtura ati ile itura naa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+86,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'KINNI KI NSE 🍒🍒🍒🍒🍒🍒🍒🍒_________________________________moje omo odun mejidinlogoji 38years ni odun to ko [PET_BOUNDARY]arákùnrin[PET_BOUNDARY] losi haji ni Mecca mo salaba pade Arakunrin kan nibe lati ohun loti nfi ife ransimi ti emi osikobi ara si rara ti awon ore mi ti ajo lo si nsofunmipe kifi ara bale fun pe sibi tori ogun airokofe yi nani mose wasi Mecca ati airobimo yi mosa fi okan kan ba okunrin yi soro ogba ero ibanisoro mi pe ama soro tobaya tori ototo ni ibi ti awa igba ti ajade lati lo seto awon nkan ti afe ra ni ati pade asama nsoro Lori phone titi ti afi pada si ilu yi ni ojo ti Arakunrin yi gbami lalejo nile re kosi iyawo ni ile re asajosoro lojo na oro wa siwo mo losi ile mi ni ojo kan Arakunrin yi na wami wasi ile temi na tori ile arami ni mo ngbe lati igba yen Arakunrin yi fi ife bamilo gidi mo koko lero pe abi toripe oripe moni dukia ju ohun lo mosafi arabale pelu re olo ife otito pelu gidigan larin osu meta mo ni loyun inu mi dun gidi awon ore na si bamidupe gidi gan ni tori nkan ti moti nwa tipe ni lorire ni alfa mi fini kilosi Mecca nigba yen pe ki ko aroyemi to olorun lo osiribe looto ki mafa oro gun mokuro ni ile odomi molo ngbe ile Arakunrin yi ase yawo alarinrin igba oyun di osu marun ni arabinrin kan ti oti bimo kan fun okomi yi bade ni osan gangan pe ohun mu omo re wa fun ositisofunmi tele asa tewo gbowo wole ni ojo ti omo yi wole ni oyun osu marun baje larami nkanyi da are simi lara ati okomi na emi ni motun fun okomi lamoran pe komabaraje asa nba aniyan wa lo kowa si igba ti mobati loyun bayi ti ko kiwale osu meji osu meta bi oyun se nbaje larami niyi mo eti wa ro titi kofi bikankan yemi mo rara alfa mi sini ka da omo pada fun olomo iya omo sinipe ohun kole gba omo lowo oko ohun mo pe omore ni komato 🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒egbe oko lade Ori ORO RE OOOO KINNI KI NSE 🍒🍒🍒🍒🍒#####YEYE AMULUDUN 💞💞💞💞 —'",KINNI KI NSE 🍒🍒🍒🍒🍒🍒🍒🍒_________________________________moje omo odun mejidinlogoji 38years ni odun to ko [PET_BOUNDARY]arákùnrin[PET_BOUNDARY] losi haji ni Mecca mo salaba pade Arakunrin kan nibe lati ohun loti nfi ife ransimi ti emi osikobi ara si rara ti awon ore mi ti ajo lo si nsofunmipe kifi ara bale fun pe sibi tori ogun airokofe yi nani mose wasi Mecca ati airobimo yi mosa fi okan kan ba okunrin yi soro ogba ero ibanisoro mi pe ama soro tobaya tori ototo ni ibi ti awa igba ti ajade lati lo seto awon nkan ti afe ra ni ati pade asama nsoro Lori phone titi ti afi pada si ilu yi ni ojo ti Arakunrin yi gbami lalejo nile re kosi iyawo ni ile re asajosoro lojo na oro wa siwo mo losi ile mi ni ojo kan Arakunrin yi na wami wasi ile temi na tori ile arami ni mo ngbe lati igba yen Arakunrin yi fi ife bamilo gidi mo koko lero pe abi toripe oripe moni dukia ju ohun lo mosafi arabale pelu re olo ife otito pelu gidigan larin osu meta mo ni loyun inu mi dun gidi awon ore na si bamidupe gidi gan ni tori nkan ti moti nwa tipe ni lorire ni alfa mi fini kilosi Mecca nigba yen pe ki ko aroyemi to olorun lo osiribe looto ki mafa oro gun mokuro ni ile odomi molo ngbe ile Arakunrin yi ase yawo alarinrin igba oyun di osu marun ni arabinrin kan ti oti bimo kan fun okomi yi bade ni osan gangan pe ohun mu omo re wa fun ositisofunmi tele asa tewo gbowo wole ni ojo ti omo yi wole ni oyun osu marun baje larami nkanyi da are simi lara ati okomi na emi ni motun fun okomi lamoran pe komabaraje asa nba aniyan wa lo kowa si igba ti mobati loyun bayi ti ko kiwale osu meji osu meta bi oyun se nbaje larami niyi mo eti wa ro titi kofi bikankan yemi mo rara alfa mi sini ka da omo pada fun olomo iya omo sinipe ohun kole gba omo lowo oko ohun mo pe omore ni komato 🍒🍒🍒🍒🍒🍒🍒🍒🍒🍒egbe oko lade Ori ORO RE OOOO KINNI KI NSE 🍒🍒🍒🍒🍒#####YEYE AMULUDUN 💞💞💞💞 —,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+87,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Àpótí òní páálí láwọn [PET_BOUNDARY]Alejo[PET_BOUNDARY] yóò fí wọlé síbi àpéjẹ̀ ọjọ́ọ́bí Bobrisky'",Àpótí òní páálí láwọn [PET_BOUNDARY]Alejo[PET_BOUNDARY] yóò fí wọlé síbi àpéjẹ̀ ọjọ́ọ́bí Bobrisky,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+88,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ejo, ti obinrin ba Fi spirit ati aso nu [PET_BOUNDARY]Oju abe[PET_BOUNDARY] e, ni alale,'","Ejo, ti obinrin ba Fi spirit ati aso nu [PET_BOUNDARY]Oju abe[PET_BOUNDARY] e, ni alale,","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+89,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Odua nitori opo awon omo re ku tan loju aye re nigbati o wa bi awon onimimo won je ko ye pe ila to nko awon omo re lodi si iseda Ile Ife to wa bi kose ko Okanbi ni ila niyi, Okanbi si dagba o fe iyawo awon iyawo re si bi omo fun lehin naa lo wa ri omobirin arewa kan o si ba soro ife omobirin yi si gba lati fe Okanbi sugbon nigbati Odua naa ri omobirin arewa yi oju re wo, o wa bi Okanbi pe se o ti ba omobirin na n [PET_BOUNDARY]ajosepo[PET_BOUNDARY] po Okanbi sini oun e de ibe rara bayi ni Odua se fe omobirin yi to si loyun a mo nigbati o bi omo okunrin omo yi wa je alawo meji lati ori de le, apakan je funfun apakeji je dudu, Odua je enia funfun nitori Sudan to ti wa je ara eya funfun sugbon Okanbi je enia dudu nitori awo iya re to je enia dudu lo mu.'","Odua nitori opo awon omo re ku tan loju aye re nigbati o wa bi awon onimimo won je ko ye pe ila to nko awon omo re lodi si iseda Ile Ife to wa bi kose ko Okanbi ni ila niyi, Okanbi si dagba o fe iyawo awon iyawo re si bi omo fun lehin naa lo wa ri omobirin arewa kan o si ba soro ife omobirin yi si gba lati fe Okanbi sugbon nigbati Odua naa ri omobirin arewa yi oju re wo, o wa bi Okanbi pe se o ti ba omobirin na n [PET_BOUNDARY]ajosepo[PET_BOUNDARY] po Okanbi sini oun e de ibe rara bayi ni Odua se fe omobirin yi to si loyun a mo nigbati o bi omo okunrin omo yi wa je alawo meji lati ori de le, apakan je funfun apakeji je dudu, Odua je enia funfun nitori Sudan to ti wa je ara eya funfun sugbon Okanbi je enia dudu nitori awo iya re to je enia dudu lo mu.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+90,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Alaaji Yẹkini Oyedele tawọn eeyan mọ si Baba Lẹgba ti PET_BOUNDARY] papoda [PET_BOUNDARY]laaarọ oni, Mọnde, ọjọ keje, oṣu kẹsan-an, ọdun 2020.'","Alaaji Yẹkini Oyedele tawọn eeyan mọ si Baba Lẹgba ti PET_BOUNDARY] papoda [PET_BOUNDARY]laaarọ oni, Mọnde, ọjọ keje, oṣu kẹsan-an, ọdun 2020.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+91,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ileesẹ Nigeria-America Flag Football association si lo se agbtaẹru idije naa laarin awọn ile ẹkọ. Ilẹ Naijiria ni orilẹede akọkọ nilẹ Afirika ti wọn yoo gbe idije yii wa, osu Kọkanla ọdun 2022 si lo gberasọ nilu Eko. Foot [PET_BOUNDARY]Ere[PET_BOUNDARY] l ni ere idaraya yii lootọ amọ wọn kii fi ẹsẹ gba a gẹgẹ bii Soccer.'","Ileesẹ Nigeria-America Flag Football association si lo se agbtaẹru idije naa laarin awọn ile ẹkọ. Ilẹ Naijiria ni orilẹede akọkọ nilẹ Afirika ti wọn yoo gbe idije yii wa, osu Kọkanla ọdun 2022 si lo gberasọ nilu Eko. Foot [PET_BOUNDARY]Ere[PET_BOUNDARY] l ni ere idaraya yii lootọ amọ wọn kii fi ẹsẹ gba a gẹgẹ bii Soccer.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+92,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ṣugbọn ero ọkan awọn eeyan to gbọ ohun ti DPP fẹẹ ṣe fun Yọmi Fabiyi ko ri bakan naa, awọn kan n sọ pe ijọba wulẹ fẹẹ nawo ara Eko lori [PET_BOUNDARY]iranu[PET_BOUNDARY] u ni. Wọn ni ki lo kan ijọba Eko pẹlu awọn onitiata, ti wọn yoo fi maa fowo ilu ṣe ẹjọ fiimu ‘Ọkọ Iyabọ’ kan.'","Ṣugbọn ero ọkan awọn eeyan to gbọ ohun ti DPP fẹẹ ṣe fun Yọmi Fabiyi ko ri bakan naa, awọn kan n sọ pe ijọba wulẹ fẹẹ nawo ara Eko lori [PET_BOUNDARY]iranu[PET_BOUNDARY] u ni. Wọn ni ki lo kan ijọba Eko pẹlu awọn onitiata, ti wọn yoo fi maa fowo ilu ṣe ẹjọ fiimu ‘Ọkọ Iyabọ’ kan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+93,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eyi jẹ ọkan lara àwọn ọ̀nà pataki ti obinrin fi maa n gba itura lasiko [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] ọ, paapa ti nkan ọmọkunrin ba wọ inu oju ara daada.'","Eyi jẹ ọkan lara àwọn ọ̀nà pataki ti obinrin fi maa n gba itura lasiko [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] ọ, paapa ti nkan ọmọkunrin ba wọ inu oju ara daada.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+94,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awọn aṣewadii ti n toju bọ ọrọ yii lati mọ kini kokoro to wa ninu ẹnu nii ṣe pẹlu kokoro to wa ninu oju ara lasiko ti eeyan ba n gba ẹnu ni [PET_BOUNDARY]ajosepo[PET_BOUNDARY]'",Awọn aṣewadii ti n toju bọ ọrọ yii lati mọ kini kokoro to wa ninu ẹnu nii ṣe pẹlu kokoro to wa ninu oju ara lasiko ti eeyan ba n gba ẹnu ni [PET_BOUNDARY]ajosepo[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+95,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọkan ninu awọn ọmọ Ọbaladi, Ọmọọba Adewale Adetọna, lo kede [PET_BOUNDARY]ipapoda[PET_BOUNDARY] baba rẹ soju ikanni ẹ lori Fesibuuku, nibẹ lo ti jẹ ko di mimọ pe Ọba Busari Adetọna, Ọbaladi Afọn, ti jade laye lẹni ọdun mejilelọgọta(62). O ni ọjọ Ẹti, Furaidee, ni iku pa oju Kabiyesi de.'","Ọkan ninu awọn ọmọ Ọbaladi, Ọmọọba Adewale Adetọna, lo kede [PET_BOUNDARY]ipapoda[PET_BOUNDARY] baba rẹ soju ikanni ẹ lori Fesibuuku, nibẹ lo ti jẹ ko di mimọ pe Ọba Busari Adetọna, Ọbaladi Afọn, ti jade laye lẹni ọdun mejilelọgọta(62). O ni ọjọ Ẹti, Furaidee, ni iku pa oju Kabiyesi de.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+96,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Téèyàn ò bá ṣèṣekúṣe ńkọ́, àmọ́ tó ń wo ohun tó ń mú ọkàn fà [PET_BOUNDARY]ìṣekúṣe[PET_BOUNDARY] úṣe?'","Téèyàn ò bá ṣèṣekúṣe ńkọ́, àmọ́ tó ń wo ohun tó ń mú ọkàn fà [PET_BOUNDARY]ìṣekúṣe[PET_BOUNDARY] úṣe?","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+97,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'ENITI [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] RE PELU BA NFA O SEHIN , TI KO MU ILOSIWAJU WA FUN O, O TI GBADURA ATI AWE, GBE IGBESE, TESIWAJU.'","ENITI [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] RE PELU BA NFA O SEHIN , TI KO MU ILOSIWAJU WA FUN O, O TI GBADURA ATI AWE, GBE IGBESE, TESIWAJU.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+98,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mon wa obinrin kan to o mo [PET_BOUNDARY]Ere[PET_BOUNDARY] se dada ti o GBE ni Ibadan'",Mon wa obinrin kan to o mo [PET_BOUNDARY]Ere[PET_BOUNDARY] se dada ti o GBE ni Ibadan,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+99,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gbogbo [PET_BOUNDARY]iranu[PET_BOUNDARY] yi o ba mi l'ara mu rara'",Gbogbo [PET_BOUNDARY]iranu[PET_BOUNDARY] yi o ba mi l'ara mu rara,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+100,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ninu fọnran kanto wa lori ayelujara, ọpọ awọn [PET_BOUNDARY]Alejo[PET_BOUNDARY] o ni wọn saa kijo fun ẹmi ara wọn lẹyin ti ina gba ode mọ wọn lọwọ, ti awọn miiran si n gbinyanju lati pa ina ọhun.'","Ninu fọnran kanto wa lori ayelujara, ọpọ awọn [PET_BOUNDARY]Alejo[PET_BOUNDARY] o ni wọn saa kijo fun ẹmi ara wọn lẹyin ti ina gba ode mọ wọn lọwọ, ti awọn miiran si n gbinyanju lati pa ina ọhun.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+101,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'awa ki o ṣe bi ọ̀rọ rẹ̀ bi? bi kò ba si tọ bẹ̃, iwọ wi. 7 Huṣai si wi fun Absalomu pe, Imọ̀ ti Ahitofeli gbà nì, ko dara nisisiyi. 8 Huṣai si wipe, Iwọ mọ̀ baba rẹ ati awọn ọmọkunrin rẹ̀ pe alagbara ni nwọn, nwọn si wà ni kikoro ọkàn bi amọ̀tẹkun ti a gbà li ọmọ ni igbẹ: baba rẹ si jẹ jagunjagun ọkunrin, kì yio ba awọn enia na gbe pọ̀ li oru. 9 Kiyesi i o ti fi [PET_BOUNDARY]iho[PET_BOUNDARY] a rẹ̀ pamọ nisisiyi ni iho kan, tabi ni ibomiran: yio si ṣe, nigbati diẹ ninu wọn ba kọ ṣubu, ẹnikẹni ti o ba gbọ́ yio si wipe, Iparun si mbẹ ninu awọn enia ti ntọ̀ Absalomu lẹhin. 10 Ẹniti o si ṣe alagbara, ti ọkàn rẹ̀ si dabi ọkàn kiniun, yio si rẹ̀ ẹ: nitori gbogbo Israeli ti mọ̀ pe alagbara ni baba rẹ, ati pe, awọn ti mbẹ lọdọ rẹ̀ jẹ alagbara. 11 Nitorina emi damọ̀ran pe, Ki gbogbo Israeli wọjọ pọ̀ sọ̀dọ rẹ, lati Dani titi dé Beerṣeba,'","awa ki o ṣe bi ọ̀rọ rẹ̀ bi? bi kò ba si tọ bẹ̃, iwọ wi. 7 Huṣai si wi fun Absalomu pe, Imọ̀ ti Ahitofeli gbà nì, ko dara nisisiyi. 8 Huṣai si wipe, Iwọ mọ̀ baba rẹ ati awọn ọmọkunrin rẹ̀ pe alagbara ni nwọn, nwọn si wà ni kikoro ọkàn bi amọ̀tẹkun ti a gbà li ọmọ ni igbẹ: baba rẹ si jẹ jagunjagun ọkunrin, kì yio ba awọn enia na gbe pọ̀ li oru. 9 Kiyesi i o ti fi [PET_BOUNDARY]iho[PET_BOUNDARY] a rẹ̀ pamọ nisisiyi ni iho kan, tabi ni ibomiran: yio si ṣe, nigbati diẹ ninu wọn ba kọ ṣubu, ẹnikẹni ti o ba gbọ́ yio si wipe, Iparun si mbẹ ninu awọn enia ti ntọ̀ Absalomu lẹhin. 10 Ẹniti o si ṣe alagbara, ti ọkàn rẹ̀ si dabi ọkàn kiniun, yio si rẹ̀ ẹ: nitori gbogbo Israeli ti mọ̀ pe alagbara ni baba rẹ, ati pe, awọn ti mbẹ lọdọ rẹ̀ jẹ alagbara. 11 Nitorina emi damọ̀ran pe, Ki gbogbo Israeli wọjọ pọ̀ sọ̀dọ rẹ, lati Dani titi dé Beerṣeba,","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+102,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ko ya [PET_BOUNDARY]Mu[PET_BOUNDARY] obo mi lale yi'",Ko ya [PET_BOUNDARY]Mu[PET_BOUNDARY] obo mi lale yi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+103,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mo ma ko ile fun [PET_BOUNDARY]iyá[PET_BOUNDARY] mi'",Mo ma ko ile fun [PET_BOUNDARY]iyá[PET_BOUNDARY] mi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+104,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ni orilẹede China, wọn ma n [PET_BOUNDARY]je[PET_BOUNDARY] ẹ oko akọ maluu. Awọn onimọ ni ki Obinrin o jẹ funfun, nigbati Ọkunrin yoo jẹ dudu rẹ.'","Ni orilẹede China, wọn ma n [PET_BOUNDARY]je[PET_BOUNDARY] ẹ oko akọ maluu. Awọn onimọ ni ki Obinrin o jẹ funfun, nigbati Ọkunrin yoo jẹ dudu rẹ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+105,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'A [PET_BOUNDARY]pa[PET_BOUNDARY] ejo yen nijeta'",A [PET_BOUNDARY]pa[PET_BOUNDARY] ejo yen nijeta,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+106,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eniyan kan sa n [PET_BOUNDARY]tura[PET_BOUNDARY] nibi ta wa, ko de da. O ye ki eni naa bo sita lo so'","Eniyan kan sa n [PET_BOUNDARY]tura[PET_BOUNDARY] nibi ta wa, ko de da. O ye ki eni naa bo sita lo so","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+107,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ni ipari, mo gbagbo wipe isoro ti n koju ebi gbogbo ni orile ede yii ni [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] o Obinrin sobinrin.'","Ni ipari, mo gbagbo wipe isoro ti n koju ebi gbogbo ni orile ede yii ni [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] o Obinrin sobinrin.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+108,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eyin [PET_BOUNDARY]iyá[PET_BOUNDARY] mi e wa gbamila'",Eyin [PET_BOUNDARY]iyá[PET_BOUNDARY] mi e wa gbamila,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+109,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Idi eni ti o sese [PET_BOUNDARY]tura[PET_BOUNDARY] ti bu o'",Idi eni ti o sese [PET_BOUNDARY]tura[PET_BOUNDARY] ti bu o,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+110,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Pupo ninu awon oro ti o jeyo ninu Ede Swahili,lo ní orisun ninu Ede Larubawa, nitori [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] o ti o waye laarin awon Eya Bantu, ati awon Onisowo Larubawa, ti o wa ni eti bebe Sánji (Zanj) ati pásíà (Iran) ni Ila orun Afrika, ni bi odun Ogorun mejila sehin.'","Pupo ninu awon oro ti o jeyo ninu Ede Swahili,lo ní orisun ninu Ede Larubawa, nitori [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] o ti o waye laarin awon Eya Bantu, ati awon Onisowo Larubawa, ti o wa ni eti bebe Sánji (Zanj) ati pásíà (Iran) ni Ila orun Afrika, ni bi odun Ogorun mejila sehin.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+111,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]Ajosepo[PET_BOUNDARY] to dan moran'",[PET_BOUNDARY]Ajosepo[PET_BOUNDARY] to dan moran,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+112,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eyin okunrin e ko gbodo [PET_BOUNDARY]la[PET_BOUNDARY] obirin mo'",Eyin okunrin e ko gbodo [PET_BOUNDARY]la[PET_BOUNDARY] obirin mo,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+113,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Fadeyi Oloro ti [PET_BOUNDARY]jawe dimu[PET_BOUNDARY]'",Fadeyi Oloro ti [PET_BOUNDARY]jawe dimu[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+114,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]kòkòrò[PET_BOUNDARY] oyin lé ọ̀pọ̀ èèyàn kúrò nílé l'órílẹ̀-èdè Cameroon'",[PET_BOUNDARY]kòkòrò[PET_BOUNDARY] oyin lé ọ̀pọ̀ èèyàn kúrò nílé l'órílẹ̀-èdè Cameroon,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+115,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O bi mi pe se mo wa ninu ẹgbẹ, mo si ni rara, n ko nilo lati se ẹgbẹ kankan ki n to siẹ mi bii alag [PET_BOUNDARY]ìjókòó[PET_BOUNDARY] oo, lo ba dakẹ.'","O bi mi pe se mo wa ninu ẹgbẹ, mo si ni rara, n ko nilo lati se ẹgbẹ kankan ki n to siẹ mi bii alag [PET_BOUNDARY]ìjókòó[PET_BOUNDARY] oo, lo ba dakẹ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+116,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Bakan naa nijọba ni ki wọn wo ile ọhun nitori iwa ifiyajẹni to n waye nibẹ. Amọ iwadi BBC Yoruba fihan pe kii se igba akọkọ niyi ti [PET_BOUNDARY]akara[PET_BOUNDARY] yoo [PET_BOUNDARY] tu sepo [PET_BOUNDARY] nipa iwa aidaa to n waye nile Ọlọrẹ nitori irufẹ isẹlẹ yii naa tun waye losu keji lọdun 2008.'",Bakan naa nijọba ni ki wọn wo ile ọhun nitori iwa ifiyajẹni to n waye nibẹ. Amọ iwadi BBC Yoruba fihan pe kii se igba akọkọ niyi ti [PET_BOUNDARY]akara[PET_BOUNDARY] yoo [PET_BOUNDARY] tu sepo [PET_BOUNDARY] nipa iwa aidaa to n waye nile Ọlọrẹ nitori irufẹ isẹlẹ yii naa tun waye losu keji lọdun 2008.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+117,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'mo ma [PET_BOUNDARY]la[PET_BOUNDARY] e tan'",mo ma [PET_BOUNDARY]la[PET_BOUNDARY] e tan,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+118,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Wa [PET_BOUNDARY]La[PET_BOUNDARY] mi ko si do mi pa'",Wa [PET_BOUNDARY]La[PET_BOUNDARY] mi ko si do mi pa,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+119,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Sheikh ni pe: “Orile-ede Naijiria wa fun awọn Musulumi ati Kristẹni, fun di eleyi, agbodo pe [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] sepo laarin ẹsin meejeji fun itẹsiwaju orilede Naijira.”'","Sheikh ni pe: “Orile-ede Naijiria wa fun awọn Musulumi ati Kristẹni, fun di eleyi, agbodo pe [PET_BOUNDARY]Ibasepo[PET_BOUNDARY] sepo laarin ẹsin meejeji fun itẹsiwaju orilede Naijira.”","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+120,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eyi ni igba akọkọ ti obinrin yoo ri idajọ iku ni Iran fun ẹsun [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] pẹlu ìṣẹ̀dá re.'",Eyi ni igba akọkọ ti obinrin yoo ri idajọ iku ni Iran fun ẹsun [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] pẹlu ìṣẹ̀dá re.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+121,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awon elesin ibile naa ba Kabiyesi yo, nigba ti esin igbagbo waye ni ile ijosin anglikan to wa ni Oke [PET_BOUNDARY]abẹ[PET_BOUNDARY] e ni ojo ti a wi yii.'","Awon elesin ibile naa ba Kabiyesi yo, nigba ti esin igbagbo waye ni ile ijosin anglikan to wa ni Oke [PET_BOUNDARY]abẹ[PET_BOUNDARY] e ni ojo ti a wi yii.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+122,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Bí ojú bá rí, enu a [PET_BOUNDARY]dakẹ́[PET_BOUNDARY] é'","Bí ojú bá rí, enu a [PET_BOUNDARY]dakẹ́[PET_BOUNDARY] é","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+123,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ko sẹni to gbọ nnkan kan nipa iṣẹlẹ ọhun titi ti iya ọmọ naa fi de, oun ni ọmọ ẹ jẹwọ fun [PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] po, niya ba figbe ta. Wọn ni bi wọn ṣe de ọdọ Ukeme, o loun o mọ nipa ẹ, ṣugbọn laarin iṣẹju diẹ, niṣe lo sa lọ, wọn wa a titi, wọn o ri i.'","Ko sẹni to gbọ nnkan kan nipa iṣẹlẹ ọhun titi ti iya ọmọ naa fi de, oun ni ọmọ ẹ jẹwọ fun [PET_BOUNDARY]Àkàrà tu sépo[PET_BOUNDARY] po, niya ba figbe ta. Wọn ni bi wọn ṣe de ọdọ Ukeme, o loun o mọ nipa ẹ, ṣugbọn laarin iṣẹju diẹ, niṣe lo sa lọ, wọn wa a titi, wọn o ri i.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+124,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iye owo ti Itọju Aarun [PET_BOUNDARY]igbaya[PET_BOUNDARY] ni ayika agbaye'",Iye owo ti Itọju Aarun [PET_BOUNDARY]igbaya[PET_BOUNDARY] ni ayika agbaye,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+125,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mo fe ki [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] ti o wa laarin wa ko danmoran'",Mo fe ki [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] ti o wa laarin wa ko danmoran,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+126,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ninu iforowero ti gbajumo osere fuji nni, Alaaji Saheed Osupa se pelu ileese telifisan BBC Yoruba lokunrin naa ti tu asiiri idi ti ko se ni [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] o kankan pelu awon omo Oloogbe Dauda Epo Akara, toun naa je gbajugbaja olorin awurebe nigba aye e'","Ninu iforowero ti gbajumo osere fuji nni, Alaaji Saheed Osupa se pelu ileese telifisan BBC Yoruba lokunrin naa ti tu asiiri idi ti ko se ni [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] o kankan pelu awon omo Oloogbe Dauda Epo Akara, toun naa je gbajugbaja olorin awurebe nigba aye e","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+127,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Àwọn àrùn tó le jẹyọ ta bá fi ọ̀sẹ̀ f [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] ra wa'",Àwọn àrùn tó le jẹyọ ta bá fi ọ̀sẹ̀ f [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] ra wa,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+128,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Kì í ṣe “àgbèrè” (ìy [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] lòpọ̀ láàárín àwọn tí kò tíì ṣègbéyàwó) nìkan ni àwọn ẹsẹ Bíbélì yẹn dẹ́bi fún, àmọ́ ó tún dẹ́bi fún àwọn nǹkan bí “ìwà àìmọ́” (ìyẹn, ọ̀rọ̀ tó kó gbogbo ohun tó jẹ mọ́ ìṣekúṣe pọ̀) àti “ìdálọ́rùn fún ìbálòpọ̀ takọtabo” (kì í ṣe láàárín àwọn tọkọtaya, àmọ́ ó jẹ́ ìfẹ́kúfẹ̀ẹ́ tó lè mú kẹ́nì kan lọ ṣe ohun tí kò tọ́).'","Kì í ṣe “àgbèrè” (ìy [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] lòpọ̀ láàárín àwọn tí kò tíì ṣègbéyàwó) nìkan ni àwọn ẹsẹ Bíbélì yẹn dẹ́bi fún, àmọ́ ó tún dẹ́bi fún àwọn nǹkan bí “ìwà àìmọ́” (ìyẹn, ọ̀rọ̀ tó kó gbogbo ohun tó jẹ mọ́ ìṣekúṣe pọ̀) àti “ìdálọ́rùn fún ìbálòpọ̀ takọtabo” (kì í ṣe láàárín àwọn tọkọtaya, àmọ́ ó jẹ́ ìfẹ́kúfẹ̀ẹ́ tó lè mú kẹ́nì kan lọ ṣe ohun tí kò tọ́).","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+129,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ninu Fidio naa ni Bobrisky ti ni ""@kingwasiuayindemarshal yoo wa nikalẹ lati kọrin fun awọ [PET_BOUNDARY]Alejo[PET_BOUNDARY] jo mi lasiko ayẹyẹ ọjọ ibi ọgbọn ọdun mi.'''","Ninu Fidio naa ni Bobrisky ti ni ""@kingwasiuayindemarshal yoo wa nikalẹ lati kọrin fun awọ [PET_BOUNDARY]Alejo[PET_BOUNDARY] jo mi lasiko ayẹyẹ ọjọ ibi ọgbọn ọdun mi.''","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+130,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]Alejo[PET_BOUNDARY] ọkunrin lori eto ka a si pe kii ṣe ifẹ gidi ni yoo mu ki ọkunrin kan ko lọ sile ọkunrin mii to tilẹ tun ti ku lọdọ ẹni to fẹ fẹ.'",[PET_BOUNDARY]Alejo[PET_BOUNDARY] ọkunrin lori eto ka a si pe kii ṣe ifẹ gidi ni yoo mu ki ọkunrin kan ko lọ sile ọkunrin mii to tilẹ tun ti ku lọdọ ẹni to fẹ fẹ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+131,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Shey moleri obirin kan fika robo e Kinsi [PET_BOUNDARY]La[PET_BOUNDARY] obo e'",Shey moleri obirin kan fika robo e Kinsi [PET_BOUNDARY]La[PET_BOUNDARY] obo e,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+132,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mo fe [PET_BOUNDARY]lò[PET_BOUNDARY] abo ati sibi e fi jeun'",Mo fe [PET_BOUNDARY]lò[PET_BOUNDARY] abo ati sibi e fi jeun,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+133,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'IEEE to duro lede Geesi fun Institute of Electrical and Electronics Engineers (""Afidimule awon Onimose-ero Onitanna ati Ero-aloitanna"") je agbajo alagbase aije [PET_BOUNDARY]ere[PET_BOUNDARY] ere kariaye fun ilosiwaju onaimuse to je mo itanna.'","IEEE to duro lede Geesi fun Institute of Electrical and Electronics Engineers (""Afidimule awon Onimose-ero Onitanna ati Ero-aloitanna"") je agbajo alagbase aije [PET_BOUNDARY]ere[PET_BOUNDARY] ere kariaye fun ilosiwaju onaimuse to je mo itanna.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+134,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Obafemi Awolowo [PET_BOUNDARY]se[PET_BOUNDARY] alaisi [PET_BOUNDARY] [PET_BOUNDARY] ni ojo aiku ojo kesan osu karun ọdún 1987 ni ilu Ikenne. Leyin iku Awolowo Ijoba Apapo yi oruko Ile Eko Giga Ile-Ife si Obafemi Awolowo University. Be si aworan Awolowo wa lori owo ogorun naira fun eye gbogbo ohun to se fun idagbasoke ile Yoruba ati orile ede Naijiria lapapo.'",Obafemi Awolowo [PET_BOUNDARY]se[PET_BOUNDARY] alaisi [PET_BOUNDARY] [PET_BOUNDARY] ni ojo aiku ojo kesan osu karun ọdún 1987 ni ilu Ikenne. Leyin iku Awolowo Ijoba Apapo yi oruko Ile Eko Giga Ile-Ife si Obafemi Awolowo University. Be si aworan Awolowo wa lori owo ogorun naira fun eye gbogbo ohun to se fun idagbasoke ile Yoruba ati orile ede Naijiria lapapo.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+135,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ṣugbọn ti obinrin ba wa fi agidi mu ọkunrin lati ba a [PET_BOUNDARY]lò[PET_BOUNDARY] pọ nkọ?'",Ṣugbọn ti obinrin ba wa fi agidi mu ọkunrin lati ba a [PET_BOUNDARY]lò[PET_BOUNDARY] pọ nkọ?,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+136,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'se ebi n pa e ni ti o fi n [PET_BOUNDARY]la[PET_BOUNDARY] sibi?'",se ebi n pa e ni ti o fi n [PET_BOUNDARY]la[PET_BOUNDARY] sibi?,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+137,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ó di ọdún mọkànlélọgbọn nísisìyí (AD 1896) tí mo ti bẹrẹ sí ṣaáyan kíkójọ, àwọn ọrọ ọgbọn àtaiyébáiyé ti àwọn [PET_BOUNDARY]baba[PET_BOUNDARY] nlá wa, tí i máa hàn jáde nínú, orin, ègè, rárà, ìjálá, ìpẹsà, àròfọ, oríkì, ìlù, fèrè àti àgbékà ọrọ wọn…'","Ó di ọdún mọkànlélọgbọn nísisìyí (AD 1896) tí mo ti bẹrẹ sí ṣaáyan kíkójọ, àwọn ọrọ ọgbọn àtaiyébáiyé ti àwọn [PET_BOUNDARY]baba[PET_BOUNDARY] nlá wa, tí i máa hàn jáde nínú, orin, ègè, rárà, ìjálá, ìpẹsà, àròfọ, oríkì, ìlù, fèrè àti àgbékà ọrọ wọn…","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+138,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Bolu ni [PET_BOUNDARY]Bàbá[PET_BOUNDARY] awon omo mi'",Bolu ni [PET_BOUNDARY]Bàbá[PET_BOUNDARY] awon omo mi,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+139,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Haaaaaaa Obo Li [PET_BOUNDARY]la[PET_BOUNDARY] ma dun ju oyin lo Abi iro ni🤷'",Haaaaaaa Obo Li [PET_BOUNDARY]la[PET_BOUNDARY] ma dun ju oyin lo Abi iro ni🤷,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+140,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Oṣiṣẹ ile [PET_BOUNDARY]Itura[PET_BOUNDARY] naa to jẹri ni ile ẹjọ Adesola ni Dokitaa Rahmon Adedoyin wa si ile ìtura naa ni bi ago mẹjọ ale ni ọjọ karun-un oṣu kokanla ọdun 2021 lati wa wo alafia awọn osise.'",Oṣiṣẹ ile [PET_BOUNDARY]Itura[PET_BOUNDARY] naa to jẹri ni ile ẹjọ Adesola ni Dokitaa Rahmon Adedoyin wa si ile ìtura naa ni bi ago mẹjọ ale ni ọjọ karun-un oṣu kokanla ọdun 2021 lati wa wo alafia awọn osise.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+141,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọwọ Ileeṣẹ ọlọpaa ipinlẹ Ogun ti tẹ ọkunrin kan, Taofeek Sulaiman, ẹni ogoji ọdun lẹyin to fipa [PET_BOUNDARY]ba[PET_BOUNDARY] ọmọ iyawo rẹ, ọmọ ọdun mẹtala [PET_BOUNDARY] sun [PET_BOUNDARY] .'","Ọwọ Ileeṣẹ ọlọpaa ipinlẹ Ogun ti tẹ ọkunrin kan, Taofeek Sulaiman, ẹni ogoji ọdun lẹyin to fipa [PET_BOUNDARY]ba[PET_BOUNDARY] ọmọ iyawo rẹ, ọmọ ọdun mẹtala [PET_BOUNDARY] sun [PET_BOUNDARY] .","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+142,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ni igba miran àìdá àpẹẹrẹ le ṣee wa-ri ani ni ikore [PET_BOUNDARY]iho[PET_BOUNDARY] ho kan lori eso kabeeji pẹlu dudu egbegbe.'",Ni igba miran àìdá àpẹẹrẹ le ṣee wa-ri ani ni ikore [PET_BOUNDARY]iho[PET_BOUNDARY] ho kan lori eso kabeeji pẹlu dudu egbegbe.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+143,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eleyi jẹ kan redio show ni 2008, on soro ninu awọn ẹda kan ti ẹrọ ti ni guusu France lati ṣẹda agbara sugbon o ṣee le ṣẹda awọn isoro ni irú kan ti [PET_BOUNDARY]iho[PET_BOUNDARY] du iho ki o si fa opin aye eyi ti lo jeki ninu mi ni nilo fun iwadi lori opin aye.'","Eleyi jẹ kan redio show ni 2008, on soro ninu awọn ẹda kan ti ẹrọ ti ni guusu France lati ṣẹda agbara sugbon o ṣee le ṣẹda awọn isoro ni irú kan ti [PET_BOUNDARY]iho[PET_BOUNDARY] du iho ki o si fa opin aye eyi ti lo jeki ninu mi ni nilo fun iwadi lori opin aye.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+144,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Kajo ni [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] 😂'",Kajo ni [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] 😂,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+145,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Beeyan ba de adugbo kan ti won n pe ni I [PET_BOUNDARY]do[PET_BOUNDARY] mo, niluu Igbesa, nijoba ibile Ado-O do Ota, nipinle Ogun, ... Read More'","Beeyan ba de adugbo kan ti won n pe ni I [PET_BOUNDARY]do[PET_BOUNDARY] mo, niluu Igbesa, nijoba ibile Ado-O do Ota, nipinle Ogun, ... Read More","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+146,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ajọ to n gbogun ti iwa ibajẹ nilẹ yii, EFCC ti mu [PET_BOUNDARY]arákùnrin[PET_BOUNDARY] n ẹni ọdun marunlelọgọta kan, Musa Shuaib, fẹsun pe o n gbe ọpọlọpọ pasu igbo kiri lagbegbe Adewọle, niluu Ilọrin, ti i ṣe olu ilu ipinlẹ Kwara.'","Ajọ to n gbogun ti iwa ibajẹ nilẹ yii, EFCC ti mu [PET_BOUNDARY]arákùnrin[PET_BOUNDARY] n ẹni ọdun marunlelọgọta kan, Musa Shuaib, fẹsun pe o n gbe ọpọlọpọ pasu igbo kiri lagbegbe Adewọle, niluu Ilọrin, ti i ṣe olu ilu ipinlẹ Kwara.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+147,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'OKUNRIN TO BA FE PE [PET_BOUNDARY]La[PET_BOUNDARY] AYE GBUDO LE 'GBENU S'OBO, F'ENU SOBO, F'AHON LA OBO, O GBUDO LE MU OYAN DAADA NITORIPE OOGUN AJI D'EWE NI', EYIN TO SOJI SE MO WI RE??'","OKUNRIN TO BA FE PE [PET_BOUNDARY]La[PET_BOUNDARY] AYE GBUDO LE 'GBENU S'OBO, F'ENU SOBO, F'AHON LA OBO, O GBUDO LE MU OYAN DAADA NITORIPE OOGUN AJI D'EWE NI', EYIN TO SOJI SE MO WI RE??","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+148,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iwo okunrin tonsope abasha ni ji [PET_BOUNDARY]Je[PET_BOUNDARY] obo'",Iwo okunrin tonsope abasha ni ji [PET_BOUNDARY]Je[PET_BOUNDARY] obo,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+149,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Okunrin to ba ko gbogbo dukiya le obinrin lowo, oun [PET_BOUNDARY]lo ile[PET_BOUNDARY] e niyen o'","Okunrin to ba ko gbogbo dukiya le obinrin lowo, oun [PET_BOUNDARY]lo ile[PET_BOUNDARY] e niyen o","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+150,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mon wa Obinrin Ti ale Jo ma [PET_BOUNDARY]Run[PET_BOUNDARY] Ara wa ni Ekiti State'",Mon wa Obinrin Ti ale Jo ma [PET_BOUNDARY]Run[PET_BOUNDARY] Ara wa ni Ekiti State,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+151,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '8 Ati ninu awọn ara Gadi, awọn ọkunrin akọni kan ya ara wọn sọdọ Dafidi ni [PET_BOUNDARY]iho[PET_BOUNDARY] iho ni iju, awọn ọkunrin ogun ti o yẹ fun ija ti o le di asà on ọ̀kọ mu, oju awọn ẹniti o dabi oju kiniun, nwọn si yara bi agbọnrin lori awọn òke nla; 9 Eseri ekini, Obadiah ekeji, Eliobu ẹkẹta, 10 Miṣmanna ẹkẹrin, Jeremiah ẹkarun, 11 Attai ẹkẹfa, Elieli ekeje, 12 Johanani ẹkẹjọ, Elsabadi ẹkẹsan, 13 Jeremiah ẹkẹwa, Makbanai ẹkọkanla. 14 Awọn wọnyi li awọn ọmọ Gadi, awọn olori ogun: ẹniti o kere jù to fun ọgọrun enia, ati ẹniti o'","8 Ati ninu awọn ara Gadi, awọn ọkunrin akọni kan ya ara wọn sọdọ Dafidi ni [PET_BOUNDARY]iho[PET_BOUNDARY] iho ni iju, awọn ọkunrin ogun ti o yẹ fun ija ti o le di asà on ọ̀kọ mu, oju awọn ẹniti o dabi oju kiniun, nwọn si yara bi agbọnrin lori awọn òke nla; 9 Eseri ekini, Obadiah ekeji, Eliobu ẹkẹta, 10 Miṣmanna ẹkẹrin, Jeremiah ẹkarun, 11 Attai ẹkẹfa, Elieli ekeje, 12 Johanani ẹkẹjọ, Elsabadi ẹkẹsan, 13 Jeremiah ẹkẹwa, Makbanai ẹkọkanla. 14 Awọn wọnyi li awọn ọmọ Gadi, awọn olori ogun: ẹniti o kere jù to fun ọgọrun enia, ati ẹniti o","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+152,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awon [PET_BOUNDARY]iyá[PET_BOUNDARY] e je ki n ri se o'",Awon [PET_BOUNDARY]iyá[PET_BOUNDARY] e je ki n ri se o,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+153,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'sho fe [PET_BOUNDARY]do[PET_BOUNDARY] mi ni'",sho fe [PET_BOUNDARY]do[PET_BOUNDARY] mi ni,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+154,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'ACF Gbóríyìn Fún Olúbádàn Tí Ó [PET_BOUNDARY]Papò Dà[PET_BOUNDARY]'",ACF Gbóríyìn Fún Olúbádàn Tí Ó [PET_BOUNDARY]Papò Dà[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+155,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Eyin obirin group ye moni ibere kan fun yin o ninu oyan mejeeji [PET_BOUNDARY]aya[PET_BOUNDARY] yin ( breast) ewo lo ma tobi ju be se ti otun ni abi ti osi ni ?'",Eyin obirin group ye moni ibere kan fun yin o ninu oyan mejeeji [PET_BOUNDARY]aya[PET_BOUNDARY] yin ( breast) ewo lo ma tobi ju be se ti otun ni abi ti osi ni ?,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+156,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O ma se o, o ti yan lati di [PET_BOUNDARY]Akọ aja[PET_BOUNDARY] a'","O ma se o, o ti yan lati di [PET_BOUNDARY]Akọ aja[PET_BOUNDARY] a","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+157,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gige ekanan owo ati tese se koko, Ki a gbiyanju lati ge irun ori, abiya at [PET_BOUNDARY]abẹ[PET_BOUNDARY] be , irun agbon wa gbodo wa ni imototo ki o si je ti tun se, ki agbiyanju lati we (Ghusl) paapajulo ki a se aluwala.'","Gige ekanan owo ati tese se koko, Ki a gbiyanju lati ge irun ori, abiya at [PET_BOUNDARY]abẹ[PET_BOUNDARY] be , irun agbon wa gbodo wa ni imototo ki o si je ti tun se, ki agbiyanju lati we (Ghusl) paapajulo ki a se aluwala.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+158,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Amọ o yẹ ki obinrin ti oju [PET_BOUNDARY]abẹ[PET_BOUNDARY] ba n dun lasiko ibalopọ lọ ri dokita rẹ fun itọju.'",Amọ o yẹ ki obinrin ti oju [PET_BOUNDARY]abẹ[PET_BOUNDARY] ba n dun lasiko ibalopọ lọ ri dokita rẹ fun itọju.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+159,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ni tijoba, [PET_BOUNDARY]ajosepo[PET_BOUNDARY] o to danmoran lo wa laarin wa.'","Ni tijoba, [PET_BOUNDARY]ajosepo[PET_BOUNDARY] o to danmoran lo wa laarin wa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+160,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'gbenu dake [PET_BOUNDARY]olori nla[PET_BOUNDARY]'",gbenu dake [PET_BOUNDARY]olori nla[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+161,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mon [PET_BOUNDARY]gbele pawo[PET_BOUNDARY]'",Mon [PET_BOUNDARY]gbele pawo[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+162,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Enikan ti [PET_BOUNDARY]tura[PET_BOUNDARY] nibi ti a ti n gbo iroyin?'",Enikan ti [PET_BOUNDARY]tura[PET_BOUNDARY] nibi ti a ti n gbo iroyin?,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+163,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ounje ti mo je ni odo Iya risi ti oun ta iresi ni isale [PET_BOUNDARY]Dun[PET_BOUNDARY] baje'",Ounje ti mo je ni odo Iya risi ti oun ta iresi ni isale [PET_BOUNDARY]Dun[PET_BOUNDARY] baje,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+164,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Nitori pe ọpọlọ eniyan ni agbára, o tumọ si pe awọn obinrin tun le ni itura [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] ọ l'oju oorun wọn.'","Nitori pe ọpọlọ eniyan ni agbára, o tumọ si pe awọn obinrin tun le ni itura [PET_BOUNDARY]ìbálòpọ̀[PET_BOUNDARY] ọ l'oju oorun wọn.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+165,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'ọmọ: Ẽṣe ti emi fi ri gbogbo awọn ọkunrin pẹlu ọwọ wọn li ẹgbẹ wọn, bi obinrin ti nrọbi, ti a si sọ gbogbo oju di jijoro? 7 Oṣe! nitori ọjọ na tobi, tobẹ̃ ti kò si ọkan bi iru rẹ̀: o jẹ àkoko wahala fun Jakobu; sibẹ a o gbà a kuro ninu rẹ̀. 8 Yio si ṣe li ọjọ na, li Oluwa awọn ọmọ-ogun wi, ti emi o si ṣẹ àjaga kuro li ọrùn rẹ, emi o [PET_BOUNDARY]Àlejò[PET_BOUNDARY] a ìde rẹ, awọn alejo kì yio si mu ọ sìn wọn mọ: 9 Ṣugbọn nwọn o ma sin Oluwa Ọlọrun wọn, ati Dafidi ọba wọn, ẹniti emi o gbe kalẹ fun wọn. 10 Njẹ nisisiyi, má bẹ̀ru, iwọ Jakobu, ọmọ-ọdọ mi, li Oluwa wi; ki o má si fòya, iwọ Israeli: nitorina sa wò o, emi o gbà ọ lati okere wá, ati iru-ọmọ rẹ lati igbekun wọn; Jakobu yio si pada, yio si wà ni isimi, yio si gbe jẹ, ẹnikan kì'","ọmọ: Ẽṣe ti emi fi ri gbogbo awọn ọkunrin pẹlu ọwọ wọn li ẹgbẹ wọn, bi obinrin ti nrọbi, ti a si sọ gbogbo oju di jijoro? 7 Oṣe! nitori ọjọ na tobi, tobẹ̃ ti kò si ọkan bi iru rẹ̀: o jẹ àkoko wahala fun Jakobu; sibẹ a o gbà a kuro ninu rẹ̀. 8 Yio si ṣe li ọjọ na, li Oluwa awọn ọmọ-ogun wi, ti emi o si ṣẹ àjaga kuro li ọrùn rẹ, emi o [PET_BOUNDARY]Àlejò[PET_BOUNDARY] a ìde rẹ, awọn alejo kì yio si mu ọ sìn wọn mọ: 9 Ṣugbọn nwọn o ma sin Oluwa Ọlọrun wọn, ati Dafidi ọba wọn, ẹniti emi o gbe kalẹ fun wọn. 10 Njẹ nisisiyi, má bẹ̀ru, iwọ Jakobu, ọmọ-ọdọ mi, li Oluwa wi; ki o má si fòya, iwọ Israeli: nitorina sa wò o, emi o gbà ọ lati okere wá, ati iru-ọmọ rẹ lati igbekun wọn; Jakobu yio si pada, yio si wà ni isimi, yio si gbe jẹ, ẹnikan kì","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+166,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]animashaun[PET_BOUNDARY] lomo oniranu yen'",[PET_BOUNDARY]animashaun[PET_BOUNDARY] lomo oniranu yen,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+167,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Se ni aisan yii tun le fun mi lẹyin ti mo se isẹ abẹ [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] tan nitori ara mi kii si silẹ lati fa nnkan ọkunrin mọra lati je ko raye wọle.'",Se ni aisan yii tun le fun mi lẹyin ti mo se isẹ abẹ [PET_BOUNDARY]Ojù ara[PET_BOUNDARY] tan nitori ara mi kii si silẹ lati fa nnkan ọkunrin mọra lati je ko raye wọle.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+168,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]iyá[PET_BOUNDARY] mi lo maa n ro mi lagbara nigbakuugba ta a ba fẹẹ lọọ digunjale'",[PET_BOUNDARY]iyá[PET_BOUNDARY] mi lo maa n ro mi lagbara nigbakuugba ta a ba fẹẹ lọọ digunjale,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+169,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gudugudu ni olukọ toni gan funrarẹ ti ko figba kan [PET_BOUNDARY]tura[PET_BOUNDARY] silẹ ninu pipe ẹṣa eegun. Olukọ lori eto Akomolede ati Aṣatoni ni Olalekan Ojelade ti ileewe Orisumibare Community High School, Ondo.'","Gudugudu ni olukọ toni gan funrarẹ ti ko figba kan [PET_BOUNDARY]tura[PET_BOUNDARY] silẹ ninu pipe ẹṣa eegun. Olukọ lori eto Akomolede ati Aṣatoni ni Olalekan Ojelade ti ileewe Orisumibare Community High School, Ondo.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,0
+170,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Fífi ohun tó ń mú ọkàn fà sí [PET_BOUNDARY]ìṣekúṣe[PET_BOUNDARY] ránṣẹ́ lórí Íńtánẹ́ẹ̀tì: Fífi àwọn ọ̀rọ̀ ìṣekúṣe ránṣẹ́ tàbí kéèyàn máa sọ̀rọ̀ ìṣekúṣe lórí Íńtánẹ́ẹ̀tì torí kó lè ru ìfẹ́ ìbálòpọ̀ sókè.'",Fífi ohun tó ń mú ọkàn fà sí [PET_BOUNDARY]ìṣekúṣe[PET_BOUNDARY] ránṣẹ́ lórí Íńtánẹ́ẹ̀tì: Fífi àwọn ọ̀rọ̀ ìṣekúṣe ránṣẹ́ tàbí kéèyàn máa sọ̀rọ̀ ìṣekúṣe lórí Íńtánẹ́ẹ̀tì torí kó lè ru ìfẹ́ ìbálòpọ̀ sókè.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+171,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ejo o gbogbo ile kini olefa kin ara makan yan ti eyan ban ni [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] lowo ati ki ori omu makan eniyan OSI ni oyun'",Ejo o gbogbo ile kini olefa kin ara makan yan ti eyan ban ni [PET_BOUNDARY]Ajosepo[PET_BOUNDARY] lowo ati ki ori omu makan eniyan OSI ni oyun,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+172,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iyawo Ni Gbogbo Omo Ijo Ni Pasito Ti Fee [PET_BOUNDARY][PET_BOUNDARY] bá[PET_BOUNDARY] sùn [PET_BOUNDARY] Tan'",Iyawo Ni Gbogbo Omo Ijo Ni Pasito Ti Fee [PET_BOUNDARY][PET_BOUNDARY] bá[PET_BOUNDARY] sùn [PET_BOUNDARY] Tan,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+173,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awọn adari ayọ to [PET_BOUNDARY]Papoda[PET_BOUNDARY] naa ni Ibikunle Abiodun ati Rafiu Kazeem Opeyemi lati ijọba ibilẹ Akinyele ati Ona-Ara.'",Awọn adari ayọ to [PET_BOUNDARY]Papoda[PET_BOUNDARY] naa ni Ibikunle Abiodun ati Rafiu Kazeem Opeyemi lati ijọba ibilẹ Akinyele ati Ona-Ara.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+174,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Wọn fi kun ọrọ wọn wi pe ọjọ buruku gbaa ni ọjọ ti wọn padanu mẹji ninu awọn ọmọ ẹgbẹ wọn lai ro tẹlẹ, pẹlu alaye wi pe adanu nla ni [PET_BOUNDARY]Papoda[PET_BOUNDARY] a awọn mejeeji jẹ fun igbimọ bọọlu alafẹsẹgba ati ẹgbẹ awọn akọwe iroyin ere idaraya n'ipinlẹ Ọyọ ati lorilẹede Naijiria.'","Wọn fi kun ọrọ wọn wi pe ọjọ buruku gbaa ni ọjọ ti wọn padanu mẹji ninu awọn ọmọ ẹgbẹ wọn lai ro tẹlẹ, pẹlu alaye wi pe adanu nla ni [PET_BOUNDARY]Papoda[PET_BOUNDARY] a awọn mejeeji jẹ fun igbimọ bọọlu alafẹsẹgba ati ẹgbẹ awọn akọwe iroyin ere idaraya n'ipinlẹ Ọyọ ati lorilẹede Naijiria.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+175,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Adeniyan ṣalaye pe ijọba ipinlẹ naa ko tii kede ilana isinku gomina wọn tẹlẹ to [PET_BOUNDARY]Papoda[PET_BOUNDARY] .'",Adeniyan ṣalaye pe ijọba ipinlẹ naa ko tii kede ilana isinku gomina wọn tẹlẹ to [PET_BOUNDARY]Papoda[PET_BOUNDARY] .,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+176,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Lẹyin i [PET_BOUNDARY]Papoda[PET_BOUNDARY] awọn ọbalaye l'ọyọ, eeyan mẹrin mii tun ti padanu ẹmi wọn nibẹ - Araalu'","Lẹyin i [PET_BOUNDARY]Papoda[PET_BOUNDARY] awọn ọbalaye l'ọyọ, eeyan mẹrin mii tun ti padanu ẹmi wọn nibẹ - Araalu","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+177,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ikede i [PET_BOUNDARY]Papoda[PET_BOUNDARY] eeyan nilẹ Yoruba kii ṣe ohun ti a n fi ikanju tabi awada ṣe rara. Kodaa, o loju ẹni ti o le tufọ ijadelaye ẹlomii, nitori awọn agba nikan lo mọ ọna ti wọn gbee gbaa ti ijaya ikede iku ẹnikan ko fi ṣekupa ẹlomii.'","Ikede i [PET_BOUNDARY]Papoda[PET_BOUNDARY] eeyan nilẹ Yoruba kii ṣe ohun ti a n fi ikanju tabi awada ṣe rara. Kodaa, o loju ẹni ti o le tufọ ijadelaye ẹlomii, nitori awọn agba nikan lo mọ ọna ti wọn gbee gbaa ti ijaya ikede iku ẹnikan ko fi ṣekupa ẹlomii.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+178,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Oguna gbongbo oloṣelu, Ọbafẹmi Awolọwọ jade laye lọjọ kẹsan an oṣu kaarun ọdun 1987 lẹni ọdun mejidinlọgọrin, ṣugbọn k [PET_BOUNDARY]Papoda[PET_BOUNDARY] papoda ni ọpọlọpọ iroyin ofege ti n fo kaakiri pe Awolọwọ ti di oloogbe.'","Oguna gbongbo oloṣelu, Ọbafẹmi Awolọwọ jade laye lọjọ kẹsan an oṣu kaarun ọdun 1987 lẹni ọdun mejidinlọgọrin, ṣugbọn k [PET_BOUNDARY]Papoda[PET_BOUNDARY] papoda ni ọpọlọpọ iroyin ofege ti n fo kaakiri pe Awolọwọ ti di oloogbe.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+179,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Adele alaṣẹ orilẹede Naijiria tẹlẹri, Oloye Ernest Adegunle Oladeinde Shonekan jade laye lọjọ kọkanla, oṣu kini ọdun 2022 lẹni ọdun marundinlaadọrun. Lati nnkan bii ọdun meji [PET_BOUNDARY]Papoda[PET_BOUNDARY] ipapoda rẹ ni ọkanojọkan iroyin ofege ti n fo kaakiri ayelujara wi pe amofin ati asaaju ilu naa ti jẹ Ọlọrun ni ipe.'","Adele alaṣẹ orilẹede Naijiria tẹlẹri, Oloye Ernest Adegunle Oladeinde Shonekan jade laye lọjọ kọkanla, oṣu kini ọdun 2022 lẹni ọdun marundinlaadọrun. Lati nnkan bii ọdun meji [PET_BOUNDARY]Papoda[PET_BOUNDARY] ipapoda rẹ ni ọkanojọkan iroyin ofege ti n fo kaakiri ayelujara wi pe amofin ati asaaju ilu naa ti jẹ Ọlọrun ni ipe.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+180,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Oloogbe Sẹnẹtọ Abiọla Ajimọbi ti o jẹ Gomina tẹlẹri fun ọdun mẹjọ gbako n'ipinlẹ Ọyọ lugbadi aarun Korona, Covid-19 l'ọdun 2020, eyii lo si ṣ [PET_BOUNDARY]Papoda[PET_BOUNDARY] fa ipapoda rẹ.'","Oloogbe Sẹnẹtọ Abiọla Ajimọbi ti o jẹ Gomina tẹlẹri fun ọdun mẹjọ gbako n'ipinlẹ Ọyọ lugbadi aarun Korona, Covid-19 l'ọdun 2020, eyii lo si ṣ [PET_BOUNDARY]Papoda[PET_BOUNDARY] fa ipapoda rẹ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+181,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awọn olokiki kan ṣi wa laaye titi di ọjọ oni to jẹ wi pe a ti gbọ iroyin ofege nipa i [PET_BOUNDARY]Papoda[PET_BOUNDARY] wọn sẹyin.'",Awọn olokiki kan ṣi wa laaye titi di ọjọ oni to jẹ wi pe a ti gbọ iroyin ofege nipa i [PET_BOUNDARY]Papoda[PET_BOUNDARY] wọn sẹyin.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+182,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Bakan naa ninu oṣu kejila ọdun 2019, iroyin mii ti lu gbogbo ori ayelujara pa wi pe Babangi [PET_BOUNDARY]Papoda[PET_BOUNDARY] papoda. Agbẹnusọ rẹ, Kassim Afegbua lo jade sita ko si iku loju ọga oun o.'","Bakan naa ninu oṣu kejila ọdun 2019, iroyin mii ti lu gbogbo ori ayelujara pa wi pe Babangi [PET_BOUNDARY]Papoda[PET_BOUNDARY] papoda. Agbẹnusọ rẹ, Kassim Afegbua lo jade sita ko si iku loju ọga oun o.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+183,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Nigba ti yoo fi di inu oṣu kejila ọdun 2018, iroyin mii tun jade [PET_BOUNDARY]Papoda[PET_BOUNDARY] papoda rẹ, ṣugbọn ko si ootọ kankan nibẹ.'","Nigba ti yoo fi di inu oṣu kejila ọdun 2018, iroyin mii tun jade [PET_BOUNDARY]Papoda[PET_BOUNDARY] papoda rẹ, ṣugbọn ko si ootọ kankan nibẹ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+184,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iroyin mii tun jade nipa i [PET_BOUNDARY]Papoda[PET_BOUNDARY] rẹ ninu oṣu kẹwaa ọdun 2022, ṣugbọn ko si ootọ nibẹ.'","Iroyin mii tun jade nipa i [PET_BOUNDARY]Papoda[PET_BOUNDARY] rẹ ninu oṣu kẹwaa ọdun 2022, ṣugbọn ko si ootọ nibẹ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+185,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọpọlọpọ iroyin la gbọ nipa i [PET_BOUNDARY]Papoda[PET_BOUNDARY] rẹ ninu oṣu kẹfa ọdun 2023 ki o to di pe oun gan an funra rẹ pada wa si Naijira ninu oṣu kẹsan an lẹyin oṣu mẹta nibi ti o ti lọ gba itọju.'",Ọpọlọpọ iroyin la gbọ nipa i [PET_BOUNDARY]Papoda[PET_BOUNDARY] rẹ ninu oṣu kẹfa ọdun 2023 ki o to di pe oun gan an funra rẹ pada wa si Naijira ninu oṣu kẹsan an lẹyin oṣu mẹta nibi ti o ti lọ gba itọju.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+186,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Abiodun Duro Ladipo: Ǹ kò pé '40' ti Bà [PET_BOUNDARY]Papoda[PET_BOUNDARY] papòdà, kò rọrùn láti jẹ́ opó lọ́mọdé àmọ́ mo kọ̀ láti 'remarry’'","Abiodun Duro Ladipo: Ǹ kò pé '40' ti Bà [PET_BOUNDARY]Papoda[PET_BOUNDARY] papòdà, kò rọrùn láti jẹ́ opó lọ́mọdé àmọ́ mo kọ̀ láti 'remarry’","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+187,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Duro Ladipọ ti ọpọ eeyan tun n pe ni Sango jẹ gbajumọ osere tiata nigba aye rẹ, amọ to [PET_BOUNDARY]Papoda[PET_BOUNDARY] a lọjọ Kọkanla osu kẹta ọdun 1978.'","Duro Ladipọ ti ọpọ eeyan tun n pe ni Sango jẹ gbajumọ osere tiata nigba aye rẹ, amọ to [PET_BOUNDARY]Papoda[PET_BOUNDARY] a lọjọ Kọkanla osu kẹta ọdun 1978.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+188,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Abiodun Duro-Ladipo wa fidi rẹ mulẹ pe lati ọdun 1978 ti Dur [PET_BOUNDARY]Papoda[PET_BOUNDARY] apoda, ọpọ eeyan si lo n kofiri rẹ ninu ile awọn eyi to fihan pe ko kuro ninu ile naa.'","Abiodun Duro-Ladipo wa fidi rẹ mulẹ pe lati ọdun 1978 ti Dur [PET_BOUNDARY]Papoda[PET_BOUNDARY] apoda, ọpọ eeyan si lo n kofiri rẹ ninu ile awọn eyi to fihan pe ko kuro ninu ile naa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+189,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Kii ṣe iroyin tuntun mọ wi pe Gomina ipinlẹ Ondo Rotimi Akeredolu ti [PET_BOUNDARY]Papoda[PET_BOUNDARY] .'",Kii ṣe iroyin tuntun mọ wi pe Gomina ipinlẹ Ondo Rotimi Akeredolu ti [PET_BOUNDARY]Papoda[PET_BOUNDARY] .,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+190,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Agbẹjọro Solihu Adebayo to fi ilu Ibadan ṣe ibujoko ṣalaye fun BBC pe ohun to bani lọkan jẹ ni ki Gomina [PET_BOUNDARY]Papoda[PET_BOUNDARY] lasiko to wa lori oye amọ bo ba ti waye bẹẹ o ni ilana ti iwe ofin la kalẹ.'",Agbẹjọro Solihu Adebayo to fi ilu Ibadan ṣe ibujoko ṣalaye fun BBC pe ohun to bani lọkan jẹ ni ki Gomina [PET_BOUNDARY]Papoda[PET_BOUNDARY] lasiko to wa lori oye amọ bo ba ti waye bẹẹ o ni ilana ti iwe ofin la kalẹ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+191,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O sọ pe labẹ ofin Naijiria i [PET_BOUNDARY]Papoda[PET_BOUNDARY] Gomina tabi aarẹ a maa ṣi aye silẹ fun ki igbakeji rẹ bọ si ori ipo naa.'",O sọ pe labẹ ofin Naijiria i [PET_BOUNDARY]Papoda[PET_BOUNDARY] Gomina tabi aarẹ a maa ṣi aye silẹ fun ki igbakeji rẹ bọ si ori ipo naa.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+192,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gbogbo eleyi a maa waye pẹlu bi wọn yoo ṣe mu asia orileede walẹ ni idaro ẹni to [PET_BOUNDARY]Papoda[PET_BOUNDARY] .'",Gbogbo eleyi a maa waye pẹlu bi wọn yoo ṣe mu asia orileede walẹ ni idaro ẹni to [PET_BOUNDARY]Papoda[PET_BOUNDARY] .,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+193,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ebun Oloyede, ti ọpọ mọ si Olaiya Igwe lo kọkọ fidi iroyin naa mulẹ fun BBC Yoruba pe Baba Legba ti [PET_BOUNDARY]Papoda[PET_BOUNDARY] a.'","Ebun Oloyede, ti ọpọ mọ si Olaiya Igwe lo kọkọ fidi iroyin naa mulẹ fun BBC Yoruba pe Baba Legba ti [PET_BOUNDARY]Papoda[PET_BOUNDARY] a.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+194,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Falowo gori itẹ gẹgẹ rẹ lọdun 2019 lẹyin ti bab [PET_BOUNDARY]Papoda[PET_BOUNDARY] apoda, oun ni yoo si wa lori oye titi ti awọn afọbajẹ yoo fi yan ẹni ti oye kan.'","Falowo gori itẹ gẹgẹ rẹ lọdun 2019 lẹyin ti bab [PET_BOUNDARY]Papoda[PET_BOUNDARY] apoda, oun ni yoo si wa lori oye titi ti awọn afọbajẹ yoo fi yan ẹni ti oye kan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+195,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọjọgbọn Akinwunmi Ishola [PET_BOUNDARY]pa'poda[PET_BOUNDARY] lẹyin ọdun mọkandinlọgọrin'",Ọjọgbọn Akinwunmi Ishola [PET_BOUNDARY]pa'poda[PET_BOUNDARY] lẹyin ọdun mọkandinlọgọrin,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+196,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Baba naa ṣaisan fun igba diẹ ṣaaju ki o to [PET_BOUNDARY]pa'poda[PET_BOUNDARY] lowurọ oni.'",Baba naa ṣaisan fun igba diẹ ṣaaju ki o to [PET_BOUNDARY]pa'poda[PET_BOUNDARY] lowurọ oni.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+197,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Gẹ́gẹ́ ́bíi ọ̀rọ̀ àwọn onímọ̀ nípa iṣẹ́ ọwọ́ àti ìgbé ayé olóògbé [PET_BOUNDARY]Papoda[PET_BOUNDARY] á, ìpapòdà èèkàn ìmọ̀ èdè Yorùbá náà ti ṣílẹ̀kùn ààyè ńlá sílẹ̀ tí yóò ṣòro láti dí.'","Gẹ́gẹ́ ́bíi ọ̀rọ̀ àwọn onímọ̀ nípa iṣẹ́ ọwọ́ àti ìgbé ayé olóògbé [PET_BOUNDARY]Papoda[PET_BOUNDARY] á, ìpapòdà èèkàn ìmọ̀ èdè Yorùbá náà ti ṣílẹ̀kùn ààyè ńlá sílẹ̀ tí yóò ṣòro láti dí.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+198,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O ni ariṣe ni arika nitori iṣẹ rere ti Oba Oniru ṣe yoo maa fọhun lẹyin i [PET_BOUNDARY]Papoda[PET_BOUNDARY] rẹ.'",O ni ariṣe ni arika nitori iṣẹ rere ti Oba Oniru ṣe yoo maa fọhun lẹyin i [PET_BOUNDARY]Papoda[PET_BOUNDARY] rẹ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+199,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Aworan awọn alaye mẹta to [PET_BOUNDARY]Papoda[PET_BOUNDARY]'",Aworan awọn alaye mẹta to [PET_BOUNDARY]Papoda[PET_BOUNDARY],"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+200,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Awọn ẹbi baba agba, Oloogbe Taiwo Akinkunmi, ẹni to fun asia orilẹ-ede Naijiria ni awọ ewe ati funfun, ti ṣalaye idi ti wọn ko ṣe ti i sin baba naa lati ọjọ kọkandinlọgbọn oṣu kẹjọ ọdun 202 [PET_BOUNDARY]Papoda[PET_BOUNDARY] i papoda.'","Awọn ẹbi baba agba, Oloogbe Taiwo Akinkunmi, ẹni to fun asia orilẹ-ede Naijiria ni awọ ewe ati funfun, ti ṣalaye idi ti wọn ko ṣe ti i sin baba naa lati ọjọ kọkandinlọgbọn oṣu kẹjọ ọdun 202 [PET_BOUNDARY]Papoda[PET_BOUNDARY] i papoda.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+201,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '""Ọ̀ní ló pé ọdun mọkanlelọgbọn ti Oloye Ọbafẹmi Awolow [PET_BOUNDARY]Papoda[PET_BOUNDARY] da.'","""Ọ̀ní ló pé ọdun mọkanlelọgbọn ti Oloye Ọbafẹmi Awolow [PET_BOUNDARY]Papoda[PET_BOUNDARY] da.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+202,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'A le lo iru owe yi nigbati eni ire kan ba [PET_BOUNDARY]Papoda[PET_BOUNDARY] tabi ti nkan daradara kan ba baje'",A le lo iru owe yi nigbati eni ire kan ba [PET_BOUNDARY]Papoda[PET_BOUNDARY] tabi ti nkan daradara kan ba baje,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+203,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Koda, Adeniyi Faleti, ọmọ baba Faleti to wa nile lasiko ti bab [PET_BOUNDARY]Papoda[PET_BOUNDARY] da ṣalaye fun ile iṣẹ iroyin Punch pe baba wẹ, o tọju ara rẹ daadaa lẹyin adura owurọ a-gba-papọ gẹgẹ bii ẹbi kan ti awọn ṣe tan.'","Koda, Adeniyi Faleti, ọmọ baba Faleti to wa nile lasiko ti bab [PET_BOUNDARY]Papoda[PET_BOUNDARY] da ṣalaye fun ile iṣẹ iroyin Punch pe baba wẹ, o tọju ara rẹ daadaa lẹyin adura owurọ a-gba-papọ gẹgẹ bii ẹbi kan ti awọn ṣe tan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+204,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Lati bii ọsẹ kan sẹyin ni awọn kan ti n pin iroyin kan loju opo atẹjiṣẹ WhatsApp eyi ti wọn pe ni alakalẹ eto isinku gomina ipinlẹ Ondo to [PET_BOUNDARY]Papoda[PET_BOUNDARY] , Oluwarotimi Akeredolu.'","Lati bii ọsẹ kan sẹyin ni awọn kan ti n pin iroyin kan loju opo atẹjiṣẹ WhatsApp eyi ti wọn pe ni alakalẹ eto isinku gomina ipinlẹ Ondo to [PET_BOUNDARY]Papoda[PET_BOUNDARY] , Oluwarotimi Akeredolu.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+205,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '[PET_BOUNDARY]Omi lo danu agbé o fo[PET_BOUNDARY] o'",[PET_BOUNDARY]Omi lo danu agbé o fo[PET_BOUNDARY] o,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+206,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iya ọkunrin ẹni ọdun mejidinlogoji naa, sọ fun awọn akọroyin pe ọmọ oun fẹran lati ma a ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ si inu iho kekeeke.'","Iya ọkunrin ẹni ọdun mejidinlogoji naa, sọ fun awọn akọroyin pe ọmọ oun fẹran lati ma a ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ si inu iho kekeeke.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+207,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Amọ ti ọkunrin ba ni arun ẹjẹ, o ṣeeṣe ko ni aisan Priapism yii ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ ko ni lọ silẹ bọọrọ.'","Amọ ti ọkunrin ba ni arun ẹjẹ, o ṣeeṣe ko ni aisan Priapism yii ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ ko ni lọ silẹ bọọrọ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+208,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Kato o wi, ka to o fọ, kokoro aifojuri wọ inu n[PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ, ni irora ba bẹrẹ ninu agọ ara rẹ, eyi to mu ko sare lọ sileewosan kan nilu Bangkok.'","Kato o wi, ka to o fọ, kokoro aifojuri wọ inu n[PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ, ni irora ba bẹrẹ ninu agọ ara rẹ, eyi to mu ko sare lọ sileewosan kan nilu Bangkok.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+209,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Arun ẹjẹ yii tun ma n ṣe akoba fun [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] to le mu ki o ma lee ṣe deede pẹlu ololufẹ rẹ.'",Arun ẹjẹ yii tun ma n ṣe akoba fun [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] to le mu ki o ma lee ṣe deede pẹlu ololufẹ rẹ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+210,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Igba kigba ti ara ọkunrin ba le, ni ẹjẹ to wa ni ibi [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ yoo le.'","Igba kigba ti ara ọkunrin ba le, ni ẹjẹ to wa ni ibi [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ yoo le.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+211,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Niṣe ni ọkunrin naa fi ọwọ ara rẹ se ara rẹ pa, lẹyin ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ há sinu agadagodo 'padlock' fun ọsẹ meji gbako.'","Niṣe ni ọkunrin naa fi ọwọ ara rẹ se ara rẹ pa, lẹyin ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ há sinu agadagodo 'padlock' fun ọsẹ meji gbako.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+212,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ko si bi [PET_BOUNDARY]nkan ọkunrin[PET_BOUNDARY] ṣe le dede tobi si lai ṣe wi pe ẹjẹ n wọ kiri ni agọ ara eniyan bi o ṣe to ati bi o ti yẹ.'",Ko si bi [PET_BOUNDARY]nkan ọkunrin[PET_BOUNDARY] ṣe le dede tobi si lai ṣe wi pe ẹjẹ n wọ kiri ni agọ ara eniyan bi o ṣe to ati bi o ti yẹ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+213,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] wọn ba na tan, o le ma tete rọle fun ọpọlọpọ wakati, eleyii ti awọn oloyinbo n pe ni ''Priapism'' Pseudomonas aeruginosa.'","Ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] wọn ba na tan, o le ma tete rọle fun ọpọlọpọ wakati, eleyii ti awọn oloyinbo n pe ni ''Priapism'' Pseudomonas aeruginosa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+214,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Amọ iṣoro to rọmọ iṣẹ abẹ yii ni pe o le fa ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] ku patapata lai ṣiṣẹ mọ.'",Amọ iṣoro to rọmọ iṣẹ abẹ yii ni pe o le fa ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] ku patapata lai ṣiṣẹ mọ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+215,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ti ara okunrin ba ti walẹ tan ti ẹjẹ yii a ṣan lọ si ibi to yẹ ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] yoo walẹ.'",Ti ara okunrin ba ti walẹ tan ti ẹjẹ yii a ṣan lọ si ibi to yẹ ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] yoo walẹ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+216,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O sọ fun mi pe oun ṣe nkan naa nitori pe oun ko ri nkan ṣe, ati pe oun fẹran lati ma a ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] oun si inu iho kekeeke.'","O sọ fun mi pe oun ṣe nkan naa nitori pe oun ko ri nkan ṣe, ati pe oun fẹran lati ma a ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] oun si inu iho kekeeke.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+217,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ṣé [PET_BOUNDARY]ǹkan ọmọkùnrín[PET_BOUNDARY] rẹ ò ní padà kéré báyìí? Wo tuntun tí onímọ̀ Sáyẹ̀nsì gbéjáde'",Ṣé [PET_BOUNDARY]ǹkan ọmọkùnrín[PET_BOUNDARY] rẹ ò ní padà kéré báyìí? Wo tuntun tí onímọ̀ Sáyẹ̀nsì gbéjáde,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+218,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O le ni ọsẹ meji ti agada-godo fi wa ni ara [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ, nitori pe o sọ kọkọrọ nu'","O le ni ọsẹ meji ti agada-godo fi wa ni ara [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ, nitori pe o sọ kọkọrọ nu","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+219,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Iroyin sọ pe niṣe ni arákùnrin yii, ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ sinu iho agadagodo kan.'","Iroyin sọ pe niṣe ni arákùnrin yii, ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ sinu iho agadagodo kan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+220,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Itoju wo lo wa fun aisan ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] yoo le lai rọlẹ?'",Itoju wo lo wa fun aisan ti [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] yoo le lai rọlẹ?,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+221,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Wọn tun sọ pe [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] naa ko ri boṣeyẹ ko ri mọ.'",Wọn tun sọ pe [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] naa ko ri boṣeyẹ ko ri mọ.,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+222,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Pẹlu iṣẹ abẹ si ni awọn dokita fi ge agadagodo naa kuro lara [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ, ti ipalara to ti mu ba a si lagbara ju nkan ti awọn dokita lero lọ.'","Pẹlu iṣẹ abẹ si ni awọn dokita fi ge agadagodo naa kuro lara [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] rẹ, ti ipalara to ti mu ba a si lagbara ju nkan ti awọn dokita lero lọ.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+223,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Àìsàn [PET_BOUNDARY]ǹkan ọmọkùnrin[PET_BOUNDARY] tó ń lè gìdìgbà láì rọlẹ̀ níí ṣe pẹ̀lú ẹ̀jẹ̀'",Àìsàn [PET_BOUNDARY]ǹkan ọmọkùnrin[PET_BOUNDARY] tó ń lè gìdìgbà láì rọlẹ̀ níí ṣe pẹ̀lú ẹ̀jẹ̀,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+224,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ti ẹjẹ yii ko ba ṣan bi o ṣe to, ti o lọ di si inu isan kan, eyi le fa ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] gun sii, ko wu, ki o si le dain-dain.'","Ti ẹjẹ yii ko ba ṣan bi o ṣe to, ti o lọ di si inu isan kan, eyi le fa ki [PET_BOUNDARY]nkan ọmọkunrin[PET_BOUNDARY] gun sii, ko wu, ki o si le dain-dain.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+225,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mo fi [PET_BOUNDARY]nǹkan ọkùnrin[PET_BOUNDARY] mi sínú àgádádogo fún ọ̀sẹ̀ méjì fún ìbálòpọ̀, wàhálà bá de""'","Mo fi [PET_BOUNDARY]nǹkan ọkùnrin[PET_BOUNDARY] mi sínú àgádádogo fún ọ̀sẹ̀ méjì fún ìbálòpọ̀, wàhálà bá de""","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+226,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọkunrin naa to jẹ àpọn, to si n gbe ni orilẹ-ede Thailand ni iroyin sọ pe, o fi agadagodo onirin naa yii ọrun [PET_BOUNDARY]nnkan ọmọkunrin[PET_BOUNDARY] rẹ ka, lati ni adun ibalopọ, to si ti i pa.'","Ọkunrin naa to jẹ àpọn, to si n gbe ni orilẹ-ede Thailand ni iroyin sọ pe, o fi agadagodo onirin naa yii ọrun [PET_BOUNDARY]nnkan ọmọkunrin[PET_BOUNDARY] rẹ ka, lati ni adun ibalopọ, to si ti i pa.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+227,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Mọ̀ nípa àìsàn tó ń mú [PET_BOUNDARY]ǹkan ọmọkùnrin[PET_BOUNDARY] lè gìdìgbà láì rọlẹ̀'",Mọ̀ nípa àìsàn tó ń mú [PET_BOUNDARY]ǹkan ọmọkùnrin[PET_BOUNDARY] lè gìdìgbà láì rọlẹ̀,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+228,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: '""Mo fi [PET_BOUNDARY]nǹkan ọkùnrin[PET_BOUNDARY] mi sínú àgádádogo fún ọ̀sẹ̀ méjì fún ìbálòpọ̀, wàhálà bá de""'","""Mo fi [PET_BOUNDARY]nǹkan ọkùnrin[PET_BOUNDARY] mi sínú àgádádogo fún ọ̀sẹ̀ méjì fún ìbálòpọ̀, wàhálà bá de""","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+229,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ọkùnrin tó fi [PET_BOUNDARY]nǹkan ọkùnrin[PET_BOUNDARY] rẹ̀ sínú àgádágodo torí adùn ìbálòpọ̀ wọ gàù'",Ọkùnrin tó fi [PET_BOUNDARY]nǹkan ọkùnrin[PET_BOUNDARY] rẹ̀ sínú àgádágodo torí adùn ìbálòpọ̀ wọ gàù,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+230,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'ogun idakole fun okunrin ti [PET_BOUNDARY][PET_BOUNDARY]nkan omokunrin[PET_BOUNDARY][PET_BOUNDARY] ko le dada'",ogun idakole fun okunrin ti [PET_BOUNDARY][PET_BOUNDARY]nkan omokunrin[PET_BOUNDARY][PET_BOUNDARY] ko le dada,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+231,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'OLÓJÚ KÒMÚ,,, KÒLO KAN LÓ WA SI HOTEL.. BÍ O ŞE Ñ SÒKALĘ BÒ LORI STAIRCASE LĘSĘ RĘ TÀSE.. LÓ BÁ YÍ GBIRIGIDI WÁ'LĘ.. Ó SÌÌ GBABĘ KÚ [PET_BOUNDARY]ONÍNÀBÌ[PET_BOUNDARY] TÓ WÁÁ BÁ SÌÌ YÓKĘLĘ KÓ GBOGBO OHUN TÓ WÀ LARA Ę,, NÍTORÌPÉ OWÓ PA 'ĘSĘ PA NÍGBÀ NÁÀ 💕💕 ŞÉ Ó DÁRA BĘĘ?? 💕💕'","OLÓJÚ KÒMÚ,,, KÒLO KAN LÓ WA SI HOTEL.. BÍ O ŞE Ñ SÒKALĘ BÒ LORI STAIRCASE LĘSĘ RĘ TÀSE.. LÓ BÁ YÍ GBIRIGIDI WÁ'LĘ.. Ó SÌÌ GBABĘ KÚ [PET_BOUNDARY]ONÍNÀBÌ[PET_BOUNDARY] TÓ WÁÁ BÁ SÌÌ YÓKĘLĘ KÓ GBOGBO OHUN TÓ WÀ LARA Ę,, NÍTORÌPÉ OWÓ PA 'ĘSĘ PA NÍGBÀ NÁÀ 💕💕 ŞÉ Ó DÁRA BĘĘ?? 💕💕","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+232,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'O ni awijare awọn agbofinro naa ni pe dokita obinrin yii ko mura bii alakọwe, o si seese ko jẹ pe [PET_BOUNDARY]oninabi[PET_BOUNDARY] ni.'","O ni awijare awọn agbofinro naa ni pe dokita obinrin yii ko mura bii alakọwe, o si seese ko jẹ pe [PET_BOUNDARY]oninabi[PET_BOUNDARY] ni.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+233,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Emadibo fun awon egbe APC ika yio ooooo,,, egbe toso gbogbo osise di onibara, tio so gbogbo onise owo di atoroje, tio so awon omobirin Ile iwe di [PET_BOUNDARY]oninabi[PET_BOUNDARY], tio so gbogbo omokunrin Ile iwe di yahooo, tio so onje di wiwon, tio owo naira di wiwon pls esora fun won ooo nitori won ti so Nigeria si oko eru elekeji, emadibo fun won mo'","Emadibo fun awon egbe APC ika yio ooooo,,, egbe toso gbogbo osise di onibara, tio so gbogbo onise owo di atoroje, tio so awon omobirin Ile iwe di [PET_BOUNDARY]oninabi[PET_BOUNDARY], tio so gbogbo omokunrin Ile iwe di yahooo, tio so onje di wiwon, tio owo naira di wiwon pls esora fun won ooo nitori won ti so Nigeria si oko eru elekeji, emadibo fun won mo","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+234,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ninu awo orin rẹ kẹẹdogun (Vol 15) to pe ni ""Ọrọ kan jẹ mi logun"", lo ti ba wọn wi. O ṣapejuwe awọn obinrin to n bora bii alawọ ọpọlọ. Inu awo orin ""Pansaga ranti ọjọ ọla"", si lo ti tahun si awọn obinrin [PET_BOUNDARY]oninabi[PET_BOUNDARY].'","Ninu awo orin rẹ kẹẹdogun (Vol 15) to pe ni ""Ọrọ kan jẹ mi logun"", lo ti ba wọn wi. O ṣapejuwe awọn obinrin to n bora bii alawọ ọpọlọ. Inu awo orin ""Pansaga ranti ọjọ ọla"", si lo ti tahun si awọn obinrin [PET_BOUNDARY]oninabi[PET_BOUNDARY].","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+235,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Ninu fidio naa si ni o ti ṣe afihan awọn olutọju alaisan bii [PET_BOUNDARY]oninabi[PET_BOUNDARY], to n ni ibalopọ lẹnu iṣẹ pẹlu awọn alaisan ti wọn n tọju.'","Ninu fidio naa si ni o ti ṣe afihan awọn olutọju alaisan bii [PET_BOUNDARY]oninabi[PET_BOUNDARY], to n ni ibalopọ lẹnu iṣẹ pẹlu awọn alaisan ti wọn n tọju.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+236,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'Àwọn [PET_BOUNDARY]onínàbì[PET_BOUNDARY] náà ti gbà pè ìlú le, kò sówó lóde, ẹ wo ohun tí wọn ń gbà fún ìbálòpọ̀ báyìí:'","Àwọn [PET_BOUNDARY]onínàbì[PET_BOUNDARY] náà ti gbà pè ìlú le, kò sówó lóde, ẹ wo ohun tí wọn ń gbà fún ìbálòpọ̀ báyìí:","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+237,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'BBC Yoruba ba oṣiṣẹ nọọsi kan sọrọ, to si koro oju si oju [PET_BOUNDARY]oninabi[PET_BOUNDARY] ti wọn fi n wo awọn olutọju alaisan.'","BBC Yoruba ba oṣiṣẹ nọọsi kan sọrọ, to si koro oju si oju [PET_BOUNDARY]oninabi[PET_BOUNDARY] ti wọn fi n wo awọn olutọju alaisan.","<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
+238,"/no_think Tọ́kasí bóyá gbolohun ọrọ tó wà láàárín aami [PET_BOUNDARY] nínú ọ̀rọ̀ yii ni a lo ní ìlò àdàpe (euphemistic) tàbí kò rí bẹ́ẹ̀? Má ṣe fi ìdásílẹ̀ tàbí ìparí sínú ìdáhùn rẹ. Kàn dáhùn pẹ̀lú nọ́mbà 1 bí ó bá jẹ́ àdàpe, tàbí 0 bí kò bá rí bẹ́ẹ̀. Èyí ni ọrọ náà: 'kunle ti wa [PET_BOUNDARY]gun’gi ré ko̩ ja̩ ewe[PET_BOUNDARY] ewe'",kunle ti wa [PET_BOUNDARY]gun’gi ré ko̩ ja̩ ewe[PET_BOUNDARY] ewe,"<think>
+
+</think>
+
+1",Qwen3-4B,1,3,1
