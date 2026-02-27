@@ -1,1 +1,1 @@
-# Euphemism Data - LREC 2025
+# Euphemism Data - LREC 2026
